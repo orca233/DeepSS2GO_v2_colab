@@ -3,7 +3,7 @@ import os
 # fpath
 dir_SUSTech_HPC = '/scem/work/songfu/py_proj/prot_algo/DeepSS2GO/'
 dir_liao_lab = '/home/fsong/work/py_proj/prot_algo/DeepSS2GO/'
-dir_colab = '/content/DeepSS2GO/'
+dir_colab = '/content/DeepSS2GO_v2_colab/'
 
 if os.path.exists(dir_SUSTech_HPC):
     path_base = dir_SUSTech_HPC
