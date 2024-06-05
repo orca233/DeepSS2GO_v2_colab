@@ -9,13 +9,18 @@ if os.path.exists(dir_SUSTech_HPC):
     path_base = dir_SUSTech_HPC
 elif os.path.exists(dir_liao_lab):
     path_base = dir_liao_lab
+    path_Prot_T5_XL_UniRef50 = '/home/fsong/work/py_proj/prot_data/Prot_T5_XL_UniRef50'  # local lab_linux
 elif os.path.exists(dir_colab):
     path_base = dir_colab
+    path_Prot_T5_XL_UniRef50 = '/content/DeepSS2GO_v2_colab/database/path_Prot_T5_XL_UniRef50'
 else:
     print('NO path_base avail')
 
 
-path_Prot_T5_XL_UniRef50 = '/home/fsong/work/py_proj/prot_data/Prot_T5_XL_UniRef50'  # local lab_linux
+
+
+path_database = path_base + 'database/'
+os.system('mkdir -p %s' % path_database)
 
 path_pub_data = path_base + 'pub_data/'
 path_SPOT1DLM_checkpoints = path_base + 'pub_data/SPOT1DLM_checkpoints/'
