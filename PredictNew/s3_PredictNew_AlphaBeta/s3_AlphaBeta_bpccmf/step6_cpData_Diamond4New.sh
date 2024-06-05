@@ -1,6 +1,7 @@
 # absolute path
 path_current="$(pwd)/"
-path_base="/home/fsong/work/py_proj/prot_algo/DeepSS2GO/"
+#path_base="/home/fsong/work/py_proj/prot_algo/DeepSS2GO/"
+path_base="/content/DeepSS2GO_v2_colab/"
 
 mkdir -p data
 
