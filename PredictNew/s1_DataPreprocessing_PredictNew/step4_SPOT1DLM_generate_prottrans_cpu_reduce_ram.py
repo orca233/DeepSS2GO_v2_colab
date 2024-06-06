@@ -17,9 +17,13 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--device', default='cpu', type=str, help='define the device you want to use')  # 修改为默认使用CPU
 args = parser.parse_args()
 
-# 使用本地路径加载模型和tokenizer
-tokenizer = T5Tokenizer.from_pretrained(path_Prot_T5_XL_UniRef50, do_lower_case=False)
-model = T5EncoderModel.from_pretrained(path_Prot_T5_XL_UniRef50)
+# ### original:
+tokenizer = T5Tokenizer.from_pretrained("Rostlab/prot_t5_xl_uniref50", do_lower_case=False)
+model = T5EncoderModel.from_pretrained("Rostlab/prot_t5_xl_uniref50")
+
+# # 使用本地路径加载模型和tokenizer
+# tokenizer = T5Tokenizer.from_pretrained(path_Prot_T5_XL_UniRef50, do_lower_case=False)
+# model = T5EncoderModel.from_pretrained(path_Prot_T5_XL_UniRef50)
 
 device = torch.device(args.device)
 model = model.to(device)
