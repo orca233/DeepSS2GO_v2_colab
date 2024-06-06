@@ -1,0 +1,292 @@
+5TV4_1, GO:0005575, cellular_component, cellular_component, 0.627
+5TV4_1, GO:0110165, cellular_component, cellular anatomical entity, 0.622
+5TV4_1, GO:0016020, cellular_component, membrane, 0.585
+5TV4_1, GO:0071944, cellular_component, cell periphery, 0.374
+5TV4_1, GO:0005886, cellular_component, plasma membrane, 0.359
+5TV4_1, GO:0005622, cellular_component, intracellular anatomical structure, 0.327
+5TV4_1, GO:0005737, cellular_component, cytoplasm, 0.327
+5TV4_1, GO:0043226, cellular_component, organelle, 0.310
+5TV4_1, GO:0043229, cellular_component, intracellular organelle, 0.310
+5TV4_1, GO:0043227, cellular_component, membrane-bounded organelle, 0.306
+5TV4_1, GO:0043231, cellular_component, intracellular membrane-bounded organelle, 0.306
+5TV4_1, GO:0005739, cellular_component, mitochondrion, 0.171
+5TV4_1, GO:0031090, cellular_component, organelle membrane, 0.160
+5TV4_1, GO:0032991, cellular_component, protein-containing complex, 0.148
+5TV4_1, GO:0098796, cellular_component, membrane protein complex, 0.148
+5TV4_1, GO:1902495, cellular_component, transmembrane transporter complex, 0.148
+5TV4_1, GO:1990351, cellular_component, transporter complex, 0.148
+5TV4_1, GO:0098533, cellular_component, ATPase dependent transmembrane transport complex, 0.132
+5TV4_1, GO:0031975, cellular_component, envelope, 0.117
+5TV4_1, GO:0005773, cellular_component, vacuole, 0.115
+5TV4_1, GO:0031967, cellular_component, organelle envelope, 0.111
+5TV4_1, GO:0098797, cellular_component, plasma membrane protein complex, 0.105
+5TV4_1, GO:0098588, cellular_component, bounding membrane of organelle, 0.092
+5TV4_1, GO:0005774, cellular_component, vacuolar membrane, 0.085
+5TV4_1, GO:0043190, cellular_component, ATP-binding cassette (ABC) transporter complex, 0.085
+5TV4_1, GO:0012505, cellular_component, endomembrane system, 0.079
+5TV4_1, GO:0009536, cellular_component, plastid, 0.078
+5TV4_1, GO:0005740, cellular_component, mitochondrial envelope, 0.071
+5TV4_1, GO:0031966, cellular_component, mitochondrial membrane, 0.062
+5TV4_1, GO:0031982, cellular_component, vesicle, 0.058
+5TV4_1, GO:1990199, cellular_component, MsbA transporter complex, 0.057
+5TV4_1, GO:0009507, cellular_component, chloroplast, 0.055
+5TV4_1, GO:0097708, cellular_component, intracellular vesicle, 0.054
+5TV4_1, GO:0031410, cellular_component, cytoplasmic vesicle, 0.053
+5TV4_1, GO:0030054, cellular_component, cell junction, 0.047
+5TV4_1, GO:0000323, cellular_component, lytic vacuole, 0.046
+5TV4_1, GO:0005764, cellular_component, lysosome, 0.046
+5TV4_1, GO:0005829, cellular_component, cytosol, 0.044
+5TV4_1, GO:0005768, cellular_component, endosome, 0.043
+5TV4_1, GO:0009526, cellular_component, plastid envelope, 0.042
+5TV4_1, GO:0009941, cellular_component, chloroplast envelope, 0.042
+5TV4_1, GO:0098852, cellular_component, lytic vacuole membrane, 0.042
+5TV4_1, GO:0005783, cellular_component, endoplasmic reticulum, 0.039
+5TV4_1, GO:0005765, cellular_component, lysosomal membrane, 0.038
+5TV4_1, GO:0031984, cellular_component, organelle subcompartment, 0.037
+5TV4_1, GO:0005789, cellular_component, endoplasmic reticulum membrane, 0.035
+5TV4_1, GO:0042175, cellular_component, nuclear outer membrane-endoplasmic reticulum membrane network, 0.035
+5TV4_1, GO:0098827, cellular_component, endoplasmic reticulum subcompartment, 0.035
+5TV4_1, GO:0005770, cellular_component, late endosome, 0.034
+5TV4_1, GO:0010008, cellular_component, endosome membrane, 0.034
+5TV4_1, GO:0012506, cellular_component, vesicle membrane, 0.034
+5TV4_1, GO:0030659, cellular_component, cytoplasmic vesicle membrane, 0.034
+5TV4_1, GO:0031902, cellular_component, late endosome membrane, 0.034
+5TV4_1, GO:0005634, cellular_component, nucleus, 0.032
+5TV4_1, GO:0034702, cellular_component, monoatomic ion channel complex, 0.031
+5TV4_1, GO:0034703, cellular_component, cation channel complex, 0.031
+5TV4_1, GO:0034705, cellular_component, potassium channel complex, 0.030
+5TV4_1, GO:0000325, cellular_component, plant-type vacuole, 0.030
+5TV4_1, GO:0062157, cellular_component, mitochondrial ATP-gated potassium channel complex, 0.027
+5TV4_1, GO:0005794, cellular_component, Golgi apparatus, 0.026
+5TV4_1, GO:0005654, cellular_component, nucleoplasm, 0.026
+5TV4_1, GO:0031974, cellular_component, membrane-enclosed lumen, 0.026
+5TV4_1, GO:0031981, cellular_component, nuclear lumen, 0.026
+5TV4_1, GO:0043233, cellular_component, organelle lumen, 0.026
+5TV4_1, GO:0070013, cellular_component, intracellular organelle lumen, 0.026
+5TV4_1, GO:0005576, cellular_component, extracellular region, 0.025
+5TV4_1, GO:0005615, cellular_component, extracellular space, 0.025
+5TV4_1, GO:0043230, cellular_component, extracellular organelle, 0.025
+5TV4_1, GO:0065010, cellular_component, extracellular membrane-bounded organelle, 0.025
+5TV4_1, GO:0070062, cellular_component, extracellular exosome, 0.025
+5TV4_1, GO:1903561, cellular_component, extracellular vesicle, 0.025
+5TV4_1, GO:0036019, cellular_component, endolysosome, 0.025
+5TV4_1, GO:0036020, cellular_component, endolysosome membrane, 0.025
+5TV4_1, GO:0019866, cellular_component, organelle inner membrane, 0.025
+5TV4_1, GO:0045202, cellular_component, synapse, 0.023
+5TV4_1, GO:0005743, cellular_component, mitochondrial inner membrane, 0.021
+
+5TTP_1, GO:0005575, cellular_component, cellular_component, 0.627
+5TTP_1, GO:0110165, cellular_component, cellular anatomical entity, 0.622
+5TTP_1, GO:0016020, cellular_component, membrane, 0.585
+5TTP_1, GO:0071944, cellular_component, cell periphery, 0.374
+5TTP_1, GO:0005886, cellular_component, plasma membrane, 0.359
+5TTP_1, GO:0005622, cellular_component, intracellular anatomical structure, 0.327
+5TTP_1, GO:0005737, cellular_component, cytoplasm, 0.327
+5TTP_1, GO:0043226, cellular_component, organelle, 0.310
+5TTP_1, GO:0043229, cellular_component, intracellular organelle, 0.310
+5TTP_1, GO:0043227, cellular_component, membrane-bounded organelle, 0.306
+5TTP_1, GO:0043231, cellular_component, intracellular membrane-bounded organelle, 0.306
+5TTP_1, GO:0005739, cellular_component, mitochondrion, 0.171
+5TTP_1, GO:0031090, cellular_component, organelle membrane, 0.160
+5TTP_1, GO:0032991, cellular_component, protein-containing complex, 0.148
+5TTP_1, GO:0098796, cellular_component, membrane protein complex, 0.148
+5TTP_1, GO:1902495, cellular_component, transmembrane transporter complex, 0.148
+5TTP_1, GO:1990351, cellular_component, transporter complex, 0.148
+5TTP_1, GO:0098533, cellular_component, ATPase dependent transmembrane transport complex, 0.132
+5TTP_1, GO:0031975, cellular_component, envelope, 0.117
+5TTP_1, GO:0005773, cellular_component, vacuole, 0.115
+5TTP_1, GO:0031967, cellular_component, organelle envelope, 0.111
+5TTP_1, GO:0098797, cellular_component, plasma membrane protein complex, 0.105
+5TTP_1, GO:0098588, cellular_component, bounding membrane of organelle, 0.092
+5TTP_1, GO:0005774, cellular_component, vacuolar membrane, 0.085
+5TTP_1, GO:0043190, cellular_component, ATP-binding cassette (ABC) transporter complex, 0.085
+5TTP_1, GO:0012505, cellular_component, endomembrane system, 0.079
+5TTP_1, GO:0009536, cellular_component, plastid, 0.078
+5TTP_1, GO:0005740, cellular_component, mitochondrial envelope, 0.071
+5TTP_1, GO:0031966, cellular_component, mitochondrial membrane, 0.062
+5TTP_1, GO:0031982, cellular_component, vesicle, 0.058
+5TTP_1, GO:1990199, cellular_component, MsbA transporter complex, 0.057
+5TTP_1, GO:0009507, cellular_component, chloroplast, 0.055
+5TTP_1, GO:0097708, cellular_component, intracellular vesicle, 0.054
+5TTP_1, GO:0031410, cellular_component, cytoplasmic vesicle, 0.053
+5TTP_1, GO:0030054, cellular_component, cell junction, 0.047
+5TTP_1, GO:0000323, cellular_component, lytic vacuole, 0.046
+5TTP_1, GO:0005764, cellular_component, lysosome, 0.046
+5TTP_1, GO:0005829, cellular_component, cytosol, 0.044
+5TTP_1, GO:0005768, cellular_component, endosome, 0.043
+5TTP_1, GO:0009526, cellular_component, plastid envelope, 0.042
+5TTP_1, GO:0009941, cellular_component, chloroplast envelope, 0.042
+5TTP_1, GO:0098852, cellular_component, lytic vacuole membrane, 0.042
+5TTP_1, GO:0005783, cellular_component, endoplasmic reticulum, 0.039
+5TTP_1, GO:0005765, cellular_component, lysosomal membrane, 0.038
+5TTP_1, GO:0031984, cellular_component, organelle subcompartment, 0.037
+5TTP_1, GO:0005789, cellular_component, endoplasmic reticulum membrane, 0.035
+5TTP_1, GO:0042175, cellular_component, nuclear outer membrane-endoplasmic reticulum membrane network, 0.035
+5TTP_1, GO:0098827, cellular_component, endoplasmic reticulum subcompartment, 0.035
+5TTP_1, GO:0005770, cellular_component, late endosome, 0.034
+5TTP_1, GO:0010008, cellular_component, endosome membrane, 0.034
+5TTP_1, GO:0012506, cellular_component, vesicle membrane, 0.034
+5TTP_1, GO:0030659, cellular_component, cytoplasmic vesicle membrane, 0.034
+5TTP_1, GO:0031902, cellular_component, late endosome membrane, 0.034
+5TTP_1, GO:0005634, cellular_component, nucleus, 0.032
+5TTP_1, GO:0034702, cellular_component, monoatomic ion channel complex, 0.031
+5TTP_1, GO:0034703, cellular_component, cation channel complex, 0.031
+5TTP_1, GO:0034705, cellular_component, potassium channel complex, 0.030
+5TTP_1, GO:0000325, cellular_component, plant-type vacuole, 0.030
+5TTP_1, GO:0062157, cellular_component, mitochondrial ATP-gated potassium channel complex, 0.027
+5TTP_1, GO:0005794, cellular_component, Golgi apparatus, 0.026
+5TTP_1, GO:0005654, cellular_component, nucleoplasm, 0.026
+5TTP_1, GO:0031974, cellular_component, membrane-enclosed lumen, 0.026
+5TTP_1, GO:0031981, cellular_component, nuclear lumen, 0.026
+5TTP_1, GO:0043233, cellular_component, organelle lumen, 0.026
+5TTP_1, GO:0070013, cellular_component, intracellular organelle lumen, 0.026
+5TTP_1, GO:0005576, cellular_component, extracellular region, 0.025
+5TTP_1, GO:0005615, cellular_component, extracellular space, 0.025
+5TTP_1, GO:0043230, cellular_component, extracellular organelle, 0.025
+5TTP_1, GO:0065010, cellular_component, extracellular membrane-bounded organelle, 0.025
+5TTP_1, GO:0070062, cellular_component, extracellular exosome, 0.025
+5TTP_1, GO:1903561, cellular_component, extracellular vesicle, 0.025
+5TTP_1, GO:0036019, cellular_component, endolysosome, 0.025
+5TTP_1, GO:0036020, cellular_component, endolysosome membrane, 0.025
+5TTP_1, GO:0019866, cellular_component, organelle inner membrane, 0.025
+5TTP_1, GO:0045202, cellular_component, synapse, 0.023
+5TTP_1, GO:0005743, cellular_component, mitochondrial inner membrane, 0.021
+
+6MHU_1, GO:0005575, cellular_component, cellular_component, 1.138
+6MHU_1, GO:0110165, cellular_component, cellular anatomical entity, 1.125
+6MHU_1, GO:0071944, cellular_component, cell periphery, 1.106
+6MHU_1, GO:0005886, cellular_component, plasma membrane, 1.097
+6MHU_1, GO:0016020, cellular_component, membrane, 1.097
+6MHU_1, GO:0032991, cellular_component, protein-containing complex, 0.685
+6MHU_1, GO:0098796, cellular_component, membrane protein complex, 0.649
+6MHU_1, GO:0098533, cellular_component, ATPase dependent transmembrane transport complex, 0.620
+6MHU_1, GO:1902495, cellular_component, transmembrane transporter complex, 0.620
+6MHU_1, GO:1990351, cellular_component, transporter complex, 0.620
+6MHU_1, GO:0098797, cellular_component, plasma membrane protein complex, 0.560
+6MHU_1, GO:0043190, cellular_component, ATP-binding cassette (ABC) transporter complex, 0.500
+6MHU_1, GO:0005622, cellular_component, intracellular anatomical structure, 0.236
+6MHU_1, GO:0043231, cellular_component, intracellular membrane-bounded organelle, 0.236
+6MHU_1, GO:0005773, cellular_component, vacuole, 0.236
+6MHU_1, GO:0043226, cellular_component, organelle, 0.236
+6MHU_1, GO:0043227, cellular_component, membrane-bounded organelle, 0.236
+6MHU_1, GO:0043229, cellular_component, intracellular organelle, 0.236
+6MHU_1, GO:0005737, cellular_component, cytoplasm, 0.236
+6MHU_1, GO:0012505, cellular_component, endomembrane system, 0.229
+6MHU_1, GO:0005783, cellular_component, endoplasmic reticulum, 0.131
+6MHU_1, GO:0005794, cellular_component, Golgi apparatus, 0.108
+6MHU_1, GO:0031982, cellular_component, vesicle, 0.093
+6MHU_1, GO:0031090, cellular_component, organelle membrane, 0.078
+6MHU_1, GO:0005576, cellular_component, extracellular region, 0.067
+6MHU_1, GO:0031984, cellular_component, organelle subcompartment, 0.060
+6MHU_1, GO:0097708, cellular_component, intracellular vesicle, 0.060
+6MHU_1, GO:0031410, cellular_component, cytoplasmic vesicle, 0.060
+6MHU_1, GO:0098588, cellular_component, bounding membrane of organelle, 0.047
+6MHU_1, GO:0005774, cellular_component, vacuolar membrane, 0.047
+6MHU_1, GO:0098590, cellular_component, plasma membrane region, 0.045
+6MHU_1, GO:0000323, cellular_component, lytic vacuole, 0.043
+6MHU_1, GO:0005829, cellular_component, cytosol, 0.037
+6MHU_1, GO:0098791, cellular_component, Golgi apparatus subcompartment, 0.037
+6MHU_1, GO:0042995, cellular_component, cell projection, 0.037
+6MHU_1, GO:1903561, cellular_component, extracellular vesicle, 0.037
+6MHU_1, GO:0065010, cellular_component, extracellular membrane-bounded organelle, 0.037
+6MHU_1, GO:0043230, cellular_component, extracellular organelle, 0.037
+6MHU_1, GO:0030054, cellular_component, cell junction, 0.036
+6MHU_1, GO:0005615, cellular_component, extracellular space, 0.035
+6MHU_1, GO:0120025, cellular_component, plasma membrane bounded cell projection, 0.031
+6MHU_1, GO:0070062, cellular_component, extracellular exosome, 0.030
+6MHU_1, GO:0005739, cellular_component, mitochondrion, 0.028
+6MHU_1, GO:0030312, cellular_component, external encapsulating structure, 0.028
+6MHU_1, GO:0005618, cellular_component, cell wall, 0.028
+6MHU_1, GO:0005764, cellular_component, lysosome, 0.026
+6MHU_1, GO:0098827, cellular_component, endoplasmic reticulum subcompartment, 0.024
+6MHU_1, GO:0005634, cellular_component, nucleus, 0.021
+6MHU_1, GO:0042175, cellular_component, nuclear outer membrane-endoplasmic reticulum membrane network, 0.021
+6MHU_1, GO:0031975, cellular_component, envelope, 0.021
+6MHU_1, GO:0030313, cellular_component, cell envelope, 0.021
+6MHU_1, GO:0005789, cellular_component, endoplasmic reticulum membrane, 0.021
+
+6MHU_2, GO:0005575, cellular_component, cellular_component, 1.161
+6MHU_2, GO:0110165, cellular_component, cellular anatomical entity, 1.132
+6MHU_2, GO:0016020, cellular_component, membrane, 1.073
+6MHU_2, GO:0071944, cellular_component, cell periphery, 0.965
+6MHU_2, GO:0005886, cellular_component, plasma membrane, 0.949
+6MHU_2, GO:0032991, cellular_component, protein-containing complex, 0.581
+6MHU_2, GO:0098796, cellular_component, membrane protein complex, 0.575
+6MHU_2, GO:1990351, cellular_component, transporter complex, 0.522
+6MHU_2, GO:1902495, cellular_component, transmembrane transporter complex, 0.509
+6MHU_2, GO:0098797, cellular_component, plasma membrane protein complex, 0.506
+6MHU_2, GO:0043190, cellular_component, ATP-binding cassette (ABC) transporter complex, 0.500
+6MHU_2, GO:0098533, cellular_component, ATPase dependent transmembrane transport complex, 0.500
+6MHU_2, GO:0043226, cellular_component, organelle, 0.319
+6MHU_2, GO:0043227, cellular_component, membrane-bounded organelle, 0.319
+6MHU_2, GO:0005622, cellular_component, intracellular anatomical structure, 0.295
+6MHU_2, GO:0043231, cellular_component, intracellular membrane-bounded organelle, 0.295
+6MHU_2, GO:0043229, cellular_component, intracellular organelle, 0.295
+6MHU_2, GO:0005737, cellular_component, cytoplasm, 0.290
+6MHU_2, GO:0005773, cellular_component, vacuole, 0.214
+6MHU_2, GO:0012505, cellular_component, endomembrane system, 0.197
+6MHU_2, GO:0005783, cellular_component, endoplasmic reticulum, 0.119
+6MHU_2, GO:0031090, cellular_component, organelle membrane, 0.093
+6MHU_2, GO:0031982, cellular_component, vesicle, 0.080
+6MHU_2, GO:0031975, cellular_component, envelope, 0.073
+6MHU_2, GO:0005739, cellular_component, mitochondrion, 0.065
+6MHU_2, GO:0005576, cellular_component, extracellular region, 0.064
+6MHU_2, GO:0031984, cellular_component, organelle subcompartment, 0.062
+6MHU_2, GO:0005829, cellular_component, cytosol, 0.050
+6MHU_2, GO:0097708, cellular_component, intracellular vesicle, 0.044
+6MHU_2, GO:0031410, cellular_component, cytoplasmic vesicle, 0.044
+6MHU_2, GO:0005615, cellular_component, extracellular space, 0.042
+6MHU_2, GO:0043230, cellular_component, extracellular organelle, 0.040
+6MHU_2, GO:0065010, cellular_component, extracellular membrane-bounded organelle, 0.039
+6MHU_2, GO:0031967, cellular_component, organelle envelope, 0.038
+6MHU_2, GO:0005794, cellular_component, Golgi apparatus, 0.038
+6MHU_2, GO:0042175, cellular_component, nuclear outer membrane-endoplasmic reticulum membrane network, 0.038
+6MHU_2, GO:0005789, cellular_component, endoplasmic reticulum membrane, 0.038
+6MHU_2, GO:0098827, cellular_component, endoplasmic reticulum subcompartment, 0.038
+6MHU_2, GO:1903561, cellular_component, extracellular vesicle, 0.037
+6MHU_2, GO:0070062, cellular_component, extracellular exosome, 0.036
+6MHU_2, GO:0098588, cellular_component, bounding membrane of organelle, 0.032
+6MHU_2, GO:0000323, cellular_component, lytic vacuole, 0.030
+6MHU_2, GO:0005740, cellular_component, mitochondrial envelope, 0.029
+6MHU_2, GO:0030313, cellular_component, cell envelope, 0.028
+6MHU_2, GO:0031966, cellular_component, mitochondrial membrane, 0.028
+6MHU_2, GO:0098590, cellular_component, plasma membrane region, 0.026
+6MHU_2, GO:0099503, cellular_component, secretory vesicle, 0.025
+6MHU_2, GO:0019866, cellular_component, organelle inner membrane, 0.024
+6MHU_2, GO:0005743, cellular_component, mitochondrial inner membrane, 0.024
+6MHU_2, GO:0005764, cellular_component, lysosome, 0.024
+6MHU_2, GO:0098791, cellular_component, Golgi apparatus subcompartment, 0.021
+
+6MHU_3, GO:0005575, cellular_component, cellular_component, 0.893
+6MHU_3, GO:0110165, cellular_component, cellular anatomical entity, 0.847
+6MHU_3, GO:0016020, cellular_component, membrane, 0.711
+6MHU_3, GO:0071944, cellular_component, cell periphery, 0.655
+6MHU_3, GO:0005886, cellular_component, plasma membrane, 0.641
+6MHU_3, GO:0032991, cellular_component, protein-containing complex, 0.513
+6MHU_3, GO:1990351, cellular_component, transporter complex, 0.513
+6MHU_3, GO:0098796, cellular_component, membrane protein complex, 0.494
+6MHU_3, GO:1902495, cellular_component, transmembrane transporter complex, 0.494
+6MHU_3, GO:0098533, cellular_component, ATPase dependent transmembrane transport complex, 0.474
+6MHU_3, GO:0098797, cellular_component, plasma membrane protein complex, 0.418
+6MHU_3, GO:0043190, cellular_component, ATP-binding cassette (ABC) transporter complex, 0.193
+6MHU_3, GO:0005622, cellular_component, intracellular anatomical structure, 0.171
+6MHU_3, GO:0043226, cellular_component, organelle, 0.099
+6MHU_3, GO:1902494, cellular_component, catalytic complex, 0.092
+6MHU_3, GO:0005737, cellular_component, cytoplasm, 0.092
+6MHU_3, GO:0043229, cellular_component, intracellular organelle, 0.091
+6MHU_3, GO:0043227, cellular_component, membrane-bounded organelle, 0.078
+6MHU_3, GO:0043231, cellular_component, intracellular membrane-bounded organelle, 0.071
+6MHU_3, GO:0005618, cellular_component, cell wall, 0.068
+6MHU_3, GO:0030312, cellular_component, external encapsulating structure, 0.068
+6MHU_3, GO:0009274, cellular_component, peptidoglycan-based cell wall, 0.067
+6MHU_3, GO:0043228, cellular_component, non-membrane-bounded organelle, 0.062
+6MHU_3, GO:0043232, cellular_component, intracellular non-membrane-bounded organelle, 0.058
+6MHU_3, GO:0005634, cellular_component, nucleus, 0.047
+6MHU_3, GO:0005829, cellular_component, cytosol, 0.047
+6MHU_3, GO:0140535, cellular_component, intracellular protein-containing complex, 0.044
+6MHU_3, GO:0009898, cellular_component, cytoplasmic side of plasma membrane, 0.029
+6MHU_3, GO:0097478, cellular_component, leaflet of membrane bilayer, 0.029
+6MHU_3, GO:0098552, cellular_component, side of membrane, 0.029
+6MHU_3, GO:0098562, cellular_component, cytoplasmic side of membrane, 0.029
+6MHU_3, GO:0032993, cellular_component, protein-DNA complex, 0.021
+

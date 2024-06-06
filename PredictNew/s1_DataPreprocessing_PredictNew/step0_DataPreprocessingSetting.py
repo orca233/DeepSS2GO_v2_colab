@@ -3,6 +3,7 @@ import os
 # fpath
 dir_SUSTech_HPC = '/scem/work/songfu/py_proj/prot_algo/DeepSS2GO/'
 dir_liao_lab = '/home/fsong/work/py_proj/prot_algo/DeepSS2GO/'
+dir_workstation = '/home/fsong/work/apps_prot/DeepSS2GO_v2_colab'
 dir_colab = '/content/DeepSS2GO_v2_colab/'
 
 if os.path.exists(dir_SUSTech_HPC):
@@ -10,6 +11,9 @@ if os.path.exists(dir_SUSTech_HPC):
 elif os.path.exists(dir_liao_lab):
     path_base = dir_liao_lab
     path_Prot_T5_XL_UniRef50 = '/home/fsong/work/py_proj/prot_data/Prot_T5_XL_UniRef50'  # local lab_linux
+elif os.path.exists(dir_workstation):
+    path_base = dir_workstation
+    path_Prot_T5_XL_UniRef50 = '/home/fsong/work/apps_prot/DeepSS2GO_database'  # local lab_linux
 elif os.path.exists(dir_colab):
     path_base = dir_colab
     path_Prot_T5_XL_UniRef50 = '/content/DeepSS2GO_v2_colab/redundancy/Prot_T5_XL_UniRef50'
