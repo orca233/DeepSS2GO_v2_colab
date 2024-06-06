@@ -12,7 +12,7 @@ elif os.path.exists(dir_liao_lab):
     path_Prot_T5_XL_UniRef50 = '/home/fsong/work/py_proj/prot_data/Prot_T5_XL_UniRef50'  # local lab_linux
 elif os.path.exists(dir_colab):
     path_base = dir_colab
-    path_Prot_T5_XL_UniRef50 = '/content/DeepSS2GO_v2_colab/redundancy/path_Prot_T5_XL_UniRef50'
+    path_Prot_T5_XL_UniRef50 = '/content/DeepSS2GO_v2_colab/redundancy/Prot_T5_XL_UniRef50'
 else:
     print('NO path_base avail')
 
