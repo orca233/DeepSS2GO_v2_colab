@@ -13,7 +13,9 @@ save_path_npy = path_base + 'redundancy/SPOT1DLM_inputs_new/'
 os.system('mkdir -p %s' % save_path_npy)
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--device', default='cuda:0', type=str, help=' define the device you want the ')
+# parser.add_argument('--device', default='cuda:0', type=str, help=' define the device you want the ')
+parser.add_argument('--device', default='cpu', type=str, help=' define the device you want the ')
+
 args = parser.parse_args()
 
 # # ### original:
