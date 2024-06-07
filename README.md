@@ -19,6 +19,20 @@ Details can be found:
 }
 
 ```
+<!-- 
+Invisible, invisible, invisible:
+The Colab version and the workstation version are different:
+
+- s1_DataPreprocessing_PredictNew, step 4, can only use pro, otherwise, memory will explode
+- s3_PredictNew_AlphaBeta, step 6, modify the path-base
+- s3_PredictNew_AlphaBeta, AlphaBeta_PredictAlphaBeta, device_ids_aa/ss8 change from [0,1]/[2,3] to [0] 
+
+Actually it needs to modify: 
+/home/fsong/work/py_proj/prot_algo/DeepSS2GO/PredictNew/s3_PredictNew_AlphaBeta/s3_AlphaBeta_bpccmf_v2_colab.tar.gz 
+& hugging face
+
+-->
+
 
 
 
@@ -38,7 +52,7 @@ In PART1 of this algorithm, the ProtTrans model is used. The RAM is insufficient
 
 - For Colab Pro users, it is recommended to use `DeepSS2GO_v2_colab_pro.ipynb`. Just upload the fasta file in the first step, and you can run all cells with one click.
 
-<!-- - For Colab free users, you need to predict the primary sequence into 8-class secondary structure in advance. -->
+
 
 - For Colab free users, it is recommended to use `DeepSS2GO_v2_colab_free.ipynb`. It needs to predict the corresponding secondary structure (8-class) of the primary amino acid sequence on other websites and upload both together.
 
@@ -55,6 +69,9 @@ http://predictprotein.org
 
 3. psipred: 
 http://bioinf.cs.ucl.ac.uk/psipred/
+
+4. SSPro
+https://ics.uci.edu/~baldig/scratch/explanation.html
 ``` -->
 
 ## colab_pro Usage Guide

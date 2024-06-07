@@ -131,7 +131,8 @@ def main(in_file_aa, in_file_ss8, out_file_bp, out_file_cc, out_file_mf, go_file
     test_dataloader_aa = DataLoader(test_dataset_aa, batch_size=batch_size, shuffle=False)
 
 
-    device_ids_aa = [0, 1]
+    # device_ids_aa = [0, 1]
+    device_ids_aa = [0]
 
     if isinstance(device_ids_aa, str):
         print('--- single GPU = ', device_ids_aa)
@@ -161,7 +162,8 @@ def main(in_file_aa, in_file_ss8, out_file_bp, out_file_cc, out_file_mf, go_file
     test_dataset_ss8 = ProteinGODataset(test_df_ss8, terms_dict_ss8, PROT_LETTER_len_ss8, PROT_INDEX_ss8)
     test_dataloader_ss8 = DataLoader(test_dataset_ss8, batch_size=batch_size, shuffle=False)
 
-    device_ids_ss8 = [2, 3]
+    # device_ids_ss8 = [2, 3]
+    device_ids_ss8 = [0]
 
     if isinstance(device_ids_ss8, str):
         print('--- single GPU = ', device_ids_ss8)

@@ -22,7 +22,18 @@
 ```
 
 
+<!-- 看不见看不见看不见：
+colab版和workstation版不同：
+- s1_DataPreprocessing_PredictNew, step4, 只能用pro，否则内存会爆
+- s3_PredictNew_AlphaBeta, step6, path-base修改
+- s3_PredictNew_AlphaBeta, AlphaBeta_PredictAlphaBeta, device_ids_aa/ss8从[0,1]/[2,3]变为[0] 
 
+实际要修改的s3是：
+/home/fsong/work/py_proj/prot_algo/DeepSS2GO/PredictNew/s3_PredictNew_AlphaBeta/s3_AlphaBeta_bpccmf_v2_colab.tar.gz
+& hugging face
+
+
+-->
 
 
 ## 写在前面：
@@ -42,7 +53,6 @@ Pro版的 L4 GPU：显存22G，RAM为53G
 
 - 如果是Colab付费用户，建议使用`DeepSS2GO_v2_colab_pro.ipynb`，只需要在第一步上传fasta文件，即可一键运行run all。
 
-<!-- - 如果是Colab免费用户，需要提前将一级序列预测成8分类的二级结构。 -->
  
 - 如果是Colab免费用户，建议使用`DeepSS2GO_v2_colab_free.ipynb`，需要自己先在其他网站预测出对应氨基酸一级序列的二级结构（8分类），然后将两者一并上传。
 
