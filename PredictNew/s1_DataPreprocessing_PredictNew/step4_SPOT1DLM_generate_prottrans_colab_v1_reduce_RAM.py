@@ -17,8 +17,8 @@ parser.add_argument('--device', default='cuda:0', type=str, help=' define the de
 args = parser.parse_args()
 
 # 按需加载模型和分词器，避免一次性加载过多模型
-tokenizer = T5Tokenizer.from_pretrained("Rostlab/prot_t5_xl_uniref50", do_lower_case=False)
-model = T5EncoderModel.from_pretrained("Rostlab/prot_t5_xl_uniref50")
+tokenizer = T5Tokenizer.from_pretrained("Rostlab/prot_t5_base_mt_uniref50", do_lower_case=False)
+model = T5EncoderModel.from_pretrained("Rostlab/prot_t5_base_mt_uniref50")
 
 device = torch.device(args.device)
 model = model.to(device)

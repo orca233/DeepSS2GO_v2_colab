@@ -2,19 +2,24 @@ import os
 
 # fpath
 dir_SUSTech_HPC = '/scem/work/songfu/py_proj/prot_algo/DeepSS2GO/'
-dir_liao_lab = '/home/fsong/work/py_proj/prot_algo/DeepSS2GO/'
-dir_workstation = '/home/fsong/work/apps_prot/DeepSS2GO_v2_colab'
+# dir_liao_lab = '/home/fsong/work/py_proj/prot_algo/DeepSS2GO/'
+dir_workstation = '/home/fsong/work/apps_prot/DeepSS2GO_v2_colab/'
 dir_colab = '/content/DeepSS2GO_v2_colab/'
 
 if os.path.exists(dir_SUSTech_HPC):
+    print('dir_SUSTech_HPC exist')
     path_base = dir_SUSTech_HPC
-elif os.path.exists(dir_liao_lab):
-    path_base = dir_liao_lab
-    path_Prot_T5_XL_UniRef50 = '/home/fsong/work/py_proj/prot_data/Prot_T5_XL_UniRef50'  # local lab_linux
+# elif os.path.exists(dir_liao_lab):
+#     print('dir_liao_lab exist')
+#     path_base = dir_liao_lab
+#     path_Prot_T5_XL_UniRef50 = '/home/fsong/work/py_proj/prot_data/Prot_T5_XL_UniRef50'  # local lab_linux
 elif os.path.exists(dir_workstation):
+    print('workstation exist')
     path_base = dir_workstation
-    path_Prot_T5_XL_UniRef50 = '/home/fsong/work/apps_prot/DeepSS2GO_database'  # local lab_linux
+    path_Prot_T5_XL_UniRef50 = '/home/fsong/work/apps_prot/DeepSS2GO_database/Prot_T5_XL_UniRef50'  # local lab_linux
+    path_prot_t5_base_mt_uniref50 = '/home/fsong/work/apps_prot/DeepSS2GO_database/prot_t5_base_mt_uniref50'
 elif os.path.exists(dir_colab):
+    print('dir_colab exist')
     path_base = dir_colab
     path_Prot_T5_XL_UniRef50 = '/content/DeepSS2GO_v2_colab/redundancy/Prot_T5_XL_UniRef50'
 else:
