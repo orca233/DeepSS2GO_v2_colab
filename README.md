@@ -69,10 +69,13 @@ http://bioinf.cs.ucl.ac.uk/psipred/
 
 4. The last step will automatically download three files:
    - results_bp.csv
+   - results_cc.csv
+   - results_mf.csv
 
 ### colab_pro Upload File Format:
 
-Reference format: `new_aa.fa`
+Reference format: `new_aa.fa` (example provided)
+
 Upload location: `/content/DeepSS2GO_v2_colab/pub_data/data_new/new_aa.fa`
 
 
@@ -129,11 +132,12 @@ Due to the order of loading Python libraries, the following window will pop up s
 
 ### colab_free Upload File Format:
 
-Please check yourself: sequence length is less than 1000, primary sequence contains only 20 common amino acids, secondary structure is 8-class.
+Please double check: sequence length should be less than 1000, primary sequence contains only 20 common amino acids, secondary structure format is in 8-class.
 
 > For 8-class, refer to DSSP classification, ['C', 'S', 'T', 'H', 'G', 'I', 'E', 'B'] (https://en.wikipedia.org/wiki/Protein_secondary_structure)
 
-Primary sequence file `new_clean_aa.fa`
+Primary sequence file `new_clean_aa.fa` (example provided)
+
 Upload location: `/content/DeepSS2GO_v2_colab/pub_data/data_new/new_clean_aa.fa`
 
 
@@ -152,7 +156,7 @@ MGHHHHHHHHMATLTAKNLAKAYKGRRVVEDVSLTVNSGEIVGLLGPNGAGKTTTFYMVVGIVPRDAGNIIIDDDDISLL
 ```
 
 
-Secondary structure file: `new_clean_ss8.fa`
+Secondary structure file: `new_clean_ss8.fa` (example provided)
 Upload location: `/content/DeepSS2GO_v2_colab/pub_data/data_new/new_clean_ss8.fa`
 
 ```bash
