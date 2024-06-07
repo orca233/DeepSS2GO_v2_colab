@@ -67,7 +67,7 @@ http://bioinf.cs.ucl.ac.uk/psipred/
 
 ![Img](./FILES/README_v2_colab.md/img-20240606152119.png)
 
-4. The last step will automatically download three files:
+4. The last step will automatically download three files: (example provided)
    - results_bp.csv
    - results_cc.csv
    - results_mf.csv
