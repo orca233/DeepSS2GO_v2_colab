@@ -1,5 +1,28 @@
 # DeepSS2GO_v2_colab 使用文档
 
+本Repository为DeepSS2GO算法的colab版本。
+源代码详见：https://github.com/orca233/DeepSS2GO
+
+
+
+```bibtex
+@article{song2024deepss2go,
+  title={DeepSS2GO: protein function prediction from secondary structure},
+  author={Song, Fu V and Su, Jiaqi and Huang, Sixing and Zhang, Neng and Li, Kaiyue and Ni, Ming and Liao, Maofu},
+  journal={Briefings in Bioinformatics},
+  volume={25},
+  number={3},
+  year={2024},
+  publisher={Oxford University Press}
+  doi = {10.1093/bib/bbae196},
+  url = {https://doi.org/10.1093/bib/bbae196},
+}
+
+```
+
+
+
+
 
 ## 写在前面：
 本算法一共分为3个part，
