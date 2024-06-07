@@ -4,6 +4,7 @@
 源代码详见：https://github.com/orca233/DeepSS2GO
 
 
+细节参见：
 
 ```bibtex
 @article{song2024deepss2go,
@@ -65,7 +66,7 @@ http://bioinf.cs.ucl.ac.uk/psipred/
 ## colab_pro 使用方法
 
 
-1. 在colab中加载`DeepSS2GO_v2_colab.ipynb`
+1. 在colab中加载`_DeepSS2GO_v2_colab_pro.ipynb`
 
 2. Runtime - run all
 
@@ -120,7 +121,7 @@ MGHHHHHHHHMATLTAKNLAKAYKGRRVVEDVSLTVNSGEIVGLLGPNGAGKTTTFYMVVGIVPRDAGNIIIDDDDISLL
 
 ## colab_free 使用方法
 
-1. 在colab中加载`DeepSS2GO_v2_colab.ipynb`
+1. 在colab中加载`DeepSS2GO_v2_colab_free.ipynb`
 
 2. 执行：PART0: upload file & env setting
 

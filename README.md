@@ -3,6 +3,7 @@
 This repository contains the Colab version of the DeepSS2GO algorithm.
 For the source code, please refer to: https://github.com/orca233/DeepSS2GO
 
+Details can be found: 
 
 ```bibtex
 @article{song2024deepss2go,
@@ -39,7 +40,7 @@ In PART1 of this algorithm, the ProtTrans model is used. The RAM is insufficient
 
 <!-- - For Colab free users, you need to predict the primary sequence into 8-class secondary structure in advance. -->
 
-- For Colab free users, it is recommended to use `DeepSS2GO_v2_colab_free.ipynb`. You need to predict the corresponding secondary structure (8-class) of the primary amino acid sequence on other websites and upload both together.
+- For Colab free users, it is recommended to use `DeepSS2GO_v2_colab_free.ipynb`. It needs to predict the corresponding secondary structure (8-class) of the primary amino acid sequence on other websites and upload both together.
 
 > If you know of any suitable 8-class secondary structure online prediction websites, feel free to recommend them.
 
@@ -58,7 +59,7 @@ http://bioinf.cs.ucl.ac.uk/psipred/
 
 ## colab_pro Usage Guide
 
-1. Load `DeepSS2GO_v2_colab.ipynb` in Colab
+1. Load `DeepSS2GO_v2_colab_pro.ipynb` in Colab
 
 2. Runtime - run all
 
@@ -114,7 +115,7 @@ Due to the order of loading Python libraries, the following window will pop up s
 
 ## colab_free Usage Guide
 
-1. Load `DeepSS2GO_v2_colab.ipynb` in Colab
+1. Load `DeepSS2GO_v2_colab_free.ipynb` in Colab
 
 2. Execute: PART0: upload file & env setting
 
