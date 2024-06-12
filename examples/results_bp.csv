@@ -1,0 +1,958 @@
+5TV4_1, GO:0008150, biological_process, biological_process, 0.996
+5TV4_1, GO:0009987, biological_process, cellular process, 0.788
+5TV4_1, GO:0006810, biological_process, transport, 0.503
+5TV4_1, GO:0051179, biological_process, localization, 0.503
+5TV4_1, GO:0051234, biological_process, establishment of localization, 0.503
+5TV4_1, GO:0055085, biological_process, transmembrane transport, 0.503
+5TV4_1, GO:0030587, biological_process, sorocarp development, 0.392
+5TV4_1, GO:0031154, biological_process, culmination involved in sorocarp development, 0.392
+5TV4_1, GO:0032502, biological_process, developmental process, 0.392
+5TV4_1, GO:0048856, biological_process, anatomical structure development, 0.392
+5TV4_1, GO:0051703, biological_process, biological process involved in intraspecies interaction between organisms, 0.392
+5TV4_1, GO:0099120, biological_process, socially cooperative development, 0.392
+5TV4_1, GO:0008152, biological_process, metabolic process, 0.349
+5TV4_1, GO:0006807, biological_process, nitrogen compound metabolic process, 0.304
+5TV4_1, GO:0071704, biological_process, organic substance metabolic process, 0.304
+5TV4_1, GO:1901564, biological_process, organonitrogen compound metabolic process, 0.304
+5TV4_1, GO:0071702, biological_process, organic substance transport, 0.256
+5TV4_1, GO:0050896, biological_process, response to stimulus, 0.254
+5TV4_1, GO:0044237, biological_process, cellular metabolic process, 0.252
+5TV4_1, GO:0065007, biological_process, biological regulation, 0.251
+5TV4_1, GO:0042221, biological_process, response to chemical, 0.222
+5TV4_1, GO:0009058, biological_process, biosynthetic process, 0.214
+5TV4_1, GO:1901576, biological_process, organic substance biosynthetic process, 0.201
+5TV4_1, GO:0016043, biological_process, cellular component organization, 0.199
+5TV4_1, GO:0071840, biological_process, cellular component organization or biogenesis, 0.199
+5TV4_1, GO:1901566, biological_process, organonitrogen compound biosynthetic process, 0.170
+5TV4_1, GO:0044249, biological_process, cellular biosynthetic process, 0.169
+5TV4_1, GO:0033036, biological_process, macromolecule localization, 0.162
+5TV4_1, GO:0006950, biological_process, response to stress, 0.153
+5TV4_1, GO:0071705, biological_process, nitrogen compound transport, 0.151
+5TV4_1, GO:1901264, biological_process, carbohydrate derivative transport, 0.151
+5TV4_1, GO:0042592, biological_process, homeostatic process, 0.147
+5TV4_1, GO:0044238, biological_process, primary metabolic process, 0.133
+5TV4_1, GO:0010876, biological_process, lipid localization, 0.132
+5TV4_1, GO:0042908, biological_process, xenobiotic transport, 0.130
+5TV4_1, GO:0006869, biological_process, lipid transport, 0.127
+5TV4_1, GO:0015711, biological_process, organic anion transport, 0.127
+5TV4_1, GO:0015849, biological_process, organic acid transport, 0.127
+5TV4_1, GO:0046942, biological_process, carboxylic acid transport, 0.127
+5TV4_1, GO:1905039, biological_process, carboxylic acid transmembrane transport, 0.127
+5TV4_1, GO:1903825, biological_process, organic acid transmembrane transport, 0.127
+5TV4_1, GO:0003333, biological_process, amino acid transmembrane transport, 0.127
+5TV4_1, GO:0006865, biological_process, amino acid transport, 0.127
+5TV4_1, GO:0051716, biological_process, cellular response to stimulus, 0.125
+5TV4_1, GO:0006725, biological_process, cellular aromatic compound metabolic process, 0.118
+5TV4_1, GO:0065008, biological_process, regulation of biological quality, 0.117
+5TV4_1, GO:0010035, biological_process, response to inorganic substance, 0.116
+5TV4_1, GO:0010038, biological_process, response to metal ion, 0.116
+5TV4_1, GO:0015920, biological_process, lipopolysaccharide transport, 0.115
+5TV4_1, GO:0034204, biological_process, lipid translocation, 0.115
+5TV4_1, GO:0061024, biological_process, membrane organization, 0.115
+5TV4_1, GO:0097035, biological_process, regulation of membrane lipid distribution, 0.115
+5TV4_1, GO:0050789, biological_process, regulation of biological process, 0.114
+5TV4_1, GO:1901360, biological_process, organic cyclic compound metabolic process, 0.109
+5TV4_1, GO:0006811, biological_process, monoatomic ion transport, 0.107
+5TV4_1, GO:0019438, biological_process, aromatic compound biosynthetic process, 0.107
+5TV4_1, GO:0032501, biological_process, multicellular organismal process, 0.104
+5TV4_1, GO:0018130, biological_process, heterocycle biosynthetic process, 0.101
+5TV4_1, GO:0033013, biological_process, tetrapyrrole metabolic process, 0.101
+5TV4_1, GO:0033014, biological_process, tetrapyrrole biosynthetic process, 0.101
+5TV4_1, GO:0034641, biological_process, cellular nitrogen compound metabolic process, 0.101
+5TV4_1, GO:0044271, biological_process, cellular nitrogen compound biosynthetic process, 0.101
+5TV4_1, GO:0046483, biological_process, heterocycle metabolic process, 0.101
+5TV4_1, GO:1901362, biological_process, organic cyclic compound biosynthetic process, 0.101
+5TV4_1, GO:0098660, biological_process, inorganic ion transmembrane transport, 0.090
+5TV4_1, GO:0034220, biological_process, monoatomic ion transmembrane transport, 0.090
+5TV4_1, GO:0070887, biological_process, cellular response to chemical stimulus, 0.087
+5TV4_1, GO:0000041, biological_process, transition metal ion transport, 0.084
+5TV4_1, GO:0006812, biological_process, monoatomic cation transport, 0.084
+5TV4_1, GO:0030001, biological_process, metal ion transport, 0.084
+5TV4_1, GO:0050794, biological_process, regulation of cellular process, 0.082
+5TV4_1, GO:0006793, biological_process, phosphorus metabolic process, 0.079
+5TV4_1, GO:0019637, biological_process, organophosphate metabolic process, 0.079
+5TV4_1, GO:0048878, biological_process, chemical homeostasis, 0.078
+5TV4_1, GO:0019725, biological_process, cellular homeostasis, 0.076
+5TV4_1, GO:0006778, biological_process, porphyrin-containing compound metabolic process, 0.074
+5TV4_1, GO:0007275, biological_process, multicellular organism development, 0.074
+5TV4_1, GO:0090407, biological_process, organophosphate biosynthetic process, 0.074
+5TV4_1, GO:0098662, biological_process, inorganic cation transmembrane transport, 0.072
+5TV4_1, GO:0098655, biological_process, monoatomic cation transmembrane transport, 0.068
+5TV4_1, GO:0006796, biological_process, phosphate-containing compound metabolic process, 0.067
+5TV4_1, GO:0022607, biological_process, cellular component assembly, 0.065
+5TV4_1, GO:0044085, biological_process, cellular component biogenesis, 0.065
+5TV4_1, GO:0009605, biological_process, response to external stimulus, 0.064
+5TV4_1, GO:0048518, biological_process, positive regulation of biological process, 0.063
+5TV4_1, GO:0019222, biological_process, regulation of metabolic process, 0.063
+5TV4_1, GO:0050801, biological_process, monoatomic ion homeostasis, 0.060
+5TV4_1, GO:0006779, biological_process, porphyrin-containing compound biosynthetic process, 0.060
+5TV4_1, GO:0055082, biological_process, intracellular chemical homeostasis, 0.059
+5TV4_1, GO:0002376, biological_process, immune system process, 0.059
+5TV4_1, GO:0006873, biological_process, intracellular monoatomic ion homeostasis, 0.059
+5TV4_1, GO:0055080, biological_process, monoatomic cation homeostasis, 0.058
+5TV4_1, GO:0042440, biological_process, pigment metabolic process, 0.058
+5TV4_1, GO:1901135, biological_process, carbohydrate derivative metabolic process, 0.058
+5TV4_1, GO:0009628, biological_process, response to abiotic stimulus, 0.057
+5TV4_1, GO:0030003, biological_process, intracellular monoatomic cation homeostasis, 0.056
+5TV4_1, GO:0009653, biological_process, anatomical structure morphogenesis, 0.056
+5TV4_1, GO:0006970, biological_process, response to osmotic stress, 0.055
+5TV4_1, GO:0042886, biological_process, amide transport, 0.055
+5TV4_1, GO:0033554, biological_process, cellular response to stress, 0.054
+5TV4_1, GO:0098739, biological_process, import across plasma membrane, 0.054
+5TV4_1, GO:1901137, biological_process, carbohydrate derivative biosynthetic process, 0.054
+5TV4_1, GO:0098771, biological_process, inorganic ion homeostasis, 0.052
+5TV4_1, GO:0006862, biological_process, nucleotide transport, 0.052
+5TV4_1, GO:0015748, biological_process, organophosphate ester transport, 0.052
+5TV4_1, GO:0015931, biological_process, nucleobase-containing compound transport, 0.052
+5TV4_1, GO:1901679, biological_process, nucleotide transmembrane transport, 0.052
+5TV4_1, GO:0042168, biological_process, heme metabolic process, 0.048
+5TV4_1, GO:0019538, biological_process, protein metabolic process, 0.047
+5TV4_1, GO:0043170, biological_process, macromolecule metabolic process, 0.047
+5TV4_1, GO:0015865, biological_process, purine nucleotide transport, 0.044
+5TV4_1, GO:0015867, biological_process, ATP transport, 0.044
+5TV4_1, GO:0015868, biological_process, purine ribonucleotide transport, 0.044
+5TV4_1, GO:0051503, biological_process, adenine nucleotide transport, 0.044
+5TV4_1, GO:0048869, biological_process, cellular developmental process, 0.043
+5TV4_1, GO:0030154, biological_process, cell differentiation, 0.043
+5TV4_1, GO:0048468, biological_process, cell development, 0.043
+5TV4_1, GO:0015833, biological_process, peptide transport, 0.042
+5TV4_1, GO:0140352, biological_process, export from cell, 0.042
+5TV4_1, GO:0140115, biological_process, export across plasma membrane, 0.042
+5TV4_1, GO:0006996, biological_process, organelle organization, 0.041
+5TV4_1, GO:0010044, biological_process, response to aluminum ion, 0.041
+5TV4_1, GO:0009636, biological_process, response to toxic substance, 0.041
+5TV4_1, GO:0097237, biological_process, cellular response to toxic substance, 0.041
+5TV4_1, GO:0098754, biological_process, detoxification, 0.041
+5TV4_1, GO:1990748, biological_process, cellular detoxification, 0.041
+5TV4_1, GO:0046148, biological_process, pigment biosynthetic process, 0.040
+5TV4_1, GO:0002262, biological_process, myeloid cell homeostasis, 0.040
+5TV4_1, GO:0030097, biological_process, hemopoiesis, 0.040
+5TV4_1, GO:0030099, biological_process, myeloid cell differentiation, 0.040
+5TV4_1, GO:0030218, biological_process, erythrocyte differentiation, 0.040
+5TV4_1, GO:0034101, biological_process, erythrocyte homeostasis, 0.040
+5TV4_1, GO:0048871, biological_process, multicellular organismal-level homeostasis, 0.040
+5TV4_1, GO:0048872, biological_process, homeostasis of number of cells, 0.040
+5TV4_1, GO:0048522, biological_process, positive regulation of cellular process, 0.039
+5TV4_1, GO:0009889, biological_process, regulation of biosynthetic process, 0.039
+5TV4_1, GO:0006783, biological_process, heme biosynthetic process, 0.038
+5TV4_1, GO:0009893, biological_process, positive regulation of metabolic process, 0.037
+5TV4_1, GO:0098657, biological_process, import into cell, 0.037
+5TV4_1, GO:0046686, biological_process, response to cadmium ion, 0.035
+5TV4_1, GO:0051171, biological_process, regulation of nitrogen compound metabolic process, 0.034
+5TV4_1, GO:0009891, biological_process, positive regulation of biosynthetic process, 0.034
+5TV4_1, GO:0009555, biological_process, pollen development, 0.033
+5TV4_1, GO:0048229, biological_process, gametophyte development, 0.033
+5TV4_1, GO:0044281, biological_process, small molecule metabolic process, 0.033
+5TV4_1, GO:0010033, biological_process, response to organic substance, 0.033
+5TV4_1, GO:0006826, biological_process, iron ion transport, 0.033
+5TV4_1, GO:0051173, biological_process, positive regulation of nitrogen compound metabolic process, 0.032
+5TV4_1, GO:0002682, biological_process, regulation of immune system process, 0.031
+5TV4_1, GO:0006879, biological_process, intracellular iron ion homeostasis, 0.031
+5TV4_1, GO:0006813, biological_process, potassium ion transport, 0.031
+5TV4_1, GO:0071805, biological_process, potassium ion transmembrane transport, 0.031
+5TV4_1, GO:0097501, biological_process, stress response to metal ion, 0.031
+5TV4_1, GO:0006629, biological_process, lipid metabolic process, 0.031
+5TV4_1, GO:0006643, biological_process, membrane lipid metabolic process, 0.031
+5TV4_1, GO:0006644, biological_process, phospholipid metabolic process, 0.031
+5TV4_1, GO:0006664, biological_process, glycolipid metabolic process, 0.031
+5TV4_1, GO:0008610, biological_process, lipid biosynthetic process, 0.031
+5TV4_1, GO:0008654, biological_process, phospholipid biosynthetic process, 0.031
+5TV4_1, GO:0009245, biological_process, lipid A biosynthetic process, 0.031
+5TV4_1, GO:0009247, biological_process, glycolipid biosynthetic process, 0.031
+5TV4_1, GO:0044255, biological_process, cellular lipid metabolic process, 0.031
+5TV4_1, GO:0046467, biological_process, membrane lipid biosynthetic process, 0.031
+5TV4_1, GO:0046493, biological_process, lipid A metabolic process, 0.031
+5TV4_1, GO:1901269, biological_process, lipooligosaccharide metabolic process, 0.031
+5TV4_1, GO:1901271, biological_process, lipooligosaccharide biosynthetic process, 0.031
+5TV4_1, GO:1903509, biological_process, liposaccharide metabolic process, 0.031
+5TV4_1, GO:0048731, biological_process, system development, 0.030
+5TV4_1, GO:1902602, biological_process, aluminum ion transmembrane transport, 0.029
+5TV4_1, GO:0045595, biological_process, regulation of cell differentiation, 0.029
+5TV4_1, GO:0045597, biological_process, positive regulation of cell differentiation, 0.029
+5TV4_1, GO:0045637, biological_process, regulation of myeloid cell differentiation, 0.029
+5TV4_1, GO:0045639, biological_process, positive regulation of myeloid cell differentiation, 0.029
+5TV4_1, GO:0050793, biological_process, regulation of developmental process, 0.029
+5TV4_1, GO:0051094, biological_process, positive regulation of developmental process, 0.029
+5TV4_1, GO:0051239, biological_process, regulation of multicellular organismal process, 0.029
+5TV4_1, GO:0060284, biological_process, regulation of cell development, 0.029
+5TV4_1, GO:1903706, biological_process, regulation of hemopoiesis, 0.029
+5TV4_1, GO:2000026, biological_process, regulation of multicellular organismal development, 0.029
+5TV4_1, GO:0006857, biological_process, oligopeptide transport, 0.028
+5TV4_1, GO:0035672, biological_process, oligopeptide transmembrane transport, 0.028
+5TV4_1, GO:0007154, biological_process, cell communication, 0.028
+5TV4_1, GO:0009059, biological_process, macromolecule biosynthetic process, 0.027
+5TV4_1, GO:0045646, biological_process, regulation of erythrocyte differentiation, 0.027
+5TV4_1, GO:0060255, biological_process, regulation of macromolecule metabolic process, 0.027
+5TV4_1, GO:1903409, biological_process, reactive oxygen species biosynthetic process, 0.027
+5TV4_1, GO:0072593, biological_process, reactive oxygen species metabolic process, 0.027
+5TV4_1, GO:1901998, biological_process, toxin transport, 0.026
+5TV4_1, GO:0071241, biological_process, cellular response to inorganic substance, 0.026
+5TV4_1, GO:0071248, biological_process, cellular response to metal ion, 0.026
+5TV4_1, GO:0071276, biological_process, cellular response to cadmium ion, 0.026
+5TV4_1, GO:0034755, biological_process, iron ion transmembrane transport, 0.026
+5TV4_1, GO:0015807, biological_process, L-amino acid transport, 0.026
+5TV4_1, GO:1902475, biological_process, L-alpha-amino acid transmembrane transport, 0.026
+5TV4_1, GO:0043603, biological_process, amide metabolic process, 0.025
+5TV4_1, GO:0015886, biological_process, heme transport, 0.025
+5TV4_1, GO:0035351, biological_process, heme transmembrane transport, 0.025
+5TV4_1, GO:1901678, biological_process, iron coordination entity transport, 0.025
+5TV4_1, GO:0031323, biological_process, regulation of cellular metabolic process, 0.023
+5TV4_1, GO:0000003, biological_process, reproduction, 0.023
+5TV4_1, GO:0048583, biological_process, regulation of response to stimulus, 0.022
+5TV4_1, GO:0048584, biological_process, positive regulation of response to stimulus, 0.022
+5TV4_1, GO:0002684, biological_process, positive regulation of immune system process, 0.022
+5TV4_1, GO:0050778, biological_process, positive regulation of immune response, 0.022
+5TV4_1, GO:0002819, biological_process, regulation of adaptive immune response, 0.022
+5TV4_1, GO:0002821, biological_process, positive regulation of adaptive immune response, 0.022
+5TV4_1, GO:0006955, biological_process, immune response, 0.022
+5TV4_1, GO:0050776, biological_process, regulation of immune response, 0.022
+5TV4_1, GO:0002250, biological_process, adaptive immune response, 0.022
+5TV4_1, GO:0051641, biological_process, cellular localization, 0.022
+5TV4_1, GO:0022414, biological_process, reproductive process, 0.022
+5TV4_1, GO:0006935, biological_process, chemotaxis, 0.021
+5TV4_1, GO:0006972, biological_process, hyperosmotic response, 0.021
+5TV4_1, GO:0040011, biological_process, locomotion, 0.021
+5TV4_1, GO:0042330, biological_process, taxis, 0.021
+5TV4_1, GO:0035461, biological_process, vitamin transmembrane transport, 0.021
+5TV4_1, GO:0051180, biological_process, vitamin transport, 0.021
+5TV4_1, GO:0048646, biological_process, anatomical structure formation involved in morphogenesis, 0.021
+5TV4_1, GO:0062197, biological_process, cellular response to chemical stress, 0.021
+5TV4_1, GO:0051649, biological_process, establishment of localization in cell, 0.021
+
+5TTP_1, GO:0008150, biological_process, biological_process, 0.996
+5TTP_1, GO:0009987, biological_process, cellular process, 0.788
+5TTP_1, GO:0006810, biological_process, transport, 0.503
+5TTP_1, GO:0051179, biological_process, localization, 0.503
+5TTP_1, GO:0051234, biological_process, establishment of localization, 0.503
+5TTP_1, GO:0055085, biological_process, transmembrane transport, 0.503
+5TTP_1, GO:0030587, biological_process, sorocarp development, 0.392
+5TTP_1, GO:0031154, biological_process, culmination involved in sorocarp development, 0.392
+5TTP_1, GO:0032502, biological_process, developmental process, 0.392
+5TTP_1, GO:0048856, biological_process, anatomical structure development, 0.392
+5TTP_1, GO:0051703, biological_process, biological process involved in intraspecies interaction between organisms, 0.392
+5TTP_1, GO:0099120, biological_process, socially cooperative development, 0.392
+5TTP_1, GO:0008152, biological_process, metabolic process, 0.349
+5TTP_1, GO:0006807, biological_process, nitrogen compound metabolic process, 0.304
+5TTP_1, GO:0071704, biological_process, organic substance metabolic process, 0.304
+5TTP_1, GO:1901564, biological_process, organonitrogen compound metabolic process, 0.304
+5TTP_1, GO:0071702, biological_process, organic substance transport, 0.256
+5TTP_1, GO:0050896, biological_process, response to stimulus, 0.254
+5TTP_1, GO:0044237, biological_process, cellular metabolic process, 0.252
+5TTP_1, GO:0065007, biological_process, biological regulation, 0.251
+5TTP_1, GO:0042221, biological_process, response to chemical, 0.222
+5TTP_1, GO:0009058, biological_process, biosynthetic process, 0.214
+5TTP_1, GO:1901576, biological_process, organic substance biosynthetic process, 0.201
+5TTP_1, GO:0016043, biological_process, cellular component organization, 0.199
+5TTP_1, GO:0071840, biological_process, cellular component organization or biogenesis, 0.199
+5TTP_1, GO:1901566, biological_process, organonitrogen compound biosynthetic process, 0.170
+5TTP_1, GO:0044249, biological_process, cellular biosynthetic process, 0.169
+5TTP_1, GO:0033036, biological_process, macromolecule localization, 0.162
+5TTP_1, GO:0006950, biological_process, response to stress, 0.153
+5TTP_1, GO:0071705, biological_process, nitrogen compound transport, 0.151
+5TTP_1, GO:1901264, biological_process, carbohydrate derivative transport, 0.151
+5TTP_1, GO:0042592, biological_process, homeostatic process, 0.147
+5TTP_1, GO:0044238, biological_process, primary metabolic process, 0.133
+5TTP_1, GO:0010876, biological_process, lipid localization, 0.132
+5TTP_1, GO:0042908, biological_process, xenobiotic transport, 0.130
+5TTP_1, GO:0006869, biological_process, lipid transport, 0.127
+5TTP_1, GO:0015711, biological_process, organic anion transport, 0.127
+5TTP_1, GO:0015849, biological_process, organic acid transport, 0.127
+5TTP_1, GO:0046942, biological_process, carboxylic acid transport, 0.127
+5TTP_1, GO:1905039, biological_process, carboxylic acid transmembrane transport, 0.127
+5TTP_1, GO:1903825, biological_process, organic acid transmembrane transport, 0.127
+5TTP_1, GO:0003333, biological_process, amino acid transmembrane transport, 0.127
+5TTP_1, GO:0006865, biological_process, amino acid transport, 0.127
+5TTP_1, GO:0051716, biological_process, cellular response to stimulus, 0.125
+5TTP_1, GO:0006725, biological_process, cellular aromatic compound metabolic process, 0.118
+5TTP_1, GO:0065008, biological_process, regulation of biological quality, 0.117
+5TTP_1, GO:0010035, biological_process, response to inorganic substance, 0.116
+5TTP_1, GO:0010038, biological_process, response to metal ion, 0.116
+5TTP_1, GO:0015920, biological_process, lipopolysaccharide transport, 0.115
+5TTP_1, GO:0034204, biological_process, lipid translocation, 0.115
+5TTP_1, GO:0061024, biological_process, membrane organization, 0.115
+5TTP_1, GO:0097035, biological_process, regulation of membrane lipid distribution, 0.115
+5TTP_1, GO:0050789, biological_process, regulation of biological process, 0.114
+5TTP_1, GO:1901360, biological_process, organic cyclic compound metabolic process, 0.109
+5TTP_1, GO:0006811, biological_process, monoatomic ion transport, 0.107
+5TTP_1, GO:0019438, biological_process, aromatic compound biosynthetic process, 0.107
+5TTP_1, GO:0032501, biological_process, multicellular organismal process, 0.104
+5TTP_1, GO:0018130, biological_process, heterocycle biosynthetic process, 0.101
+5TTP_1, GO:0033013, biological_process, tetrapyrrole metabolic process, 0.101
+5TTP_1, GO:0033014, biological_process, tetrapyrrole biosynthetic process, 0.101
+5TTP_1, GO:0034641, biological_process, cellular nitrogen compound metabolic process, 0.101
+5TTP_1, GO:0044271, biological_process, cellular nitrogen compound biosynthetic process, 0.101
+5TTP_1, GO:0046483, biological_process, heterocycle metabolic process, 0.101
+5TTP_1, GO:1901362, biological_process, organic cyclic compound biosynthetic process, 0.101
+5TTP_1, GO:0098660, biological_process, inorganic ion transmembrane transport, 0.090
+5TTP_1, GO:0034220, biological_process, monoatomic ion transmembrane transport, 0.090
+5TTP_1, GO:0070887, biological_process, cellular response to chemical stimulus, 0.087
+5TTP_1, GO:0000041, biological_process, transition metal ion transport, 0.084
+5TTP_1, GO:0006812, biological_process, monoatomic cation transport, 0.084
+5TTP_1, GO:0030001, biological_process, metal ion transport, 0.084
+5TTP_1, GO:0050794, biological_process, regulation of cellular process, 0.082
+5TTP_1, GO:0006793, biological_process, phosphorus metabolic process, 0.079
+5TTP_1, GO:0019637, biological_process, organophosphate metabolic process, 0.079
+5TTP_1, GO:0048878, biological_process, chemical homeostasis, 0.078
+5TTP_1, GO:0019725, biological_process, cellular homeostasis, 0.076
+5TTP_1, GO:0006778, biological_process, porphyrin-containing compound metabolic process, 0.074
+5TTP_1, GO:0007275, biological_process, multicellular organism development, 0.074
+5TTP_1, GO:0090407, biological_process, organophosphate biosynthetic process, 0.074
+5TTP_1, GO:0098662, biological_process, inorganic cation transmembrane transport, 0.072
+5TTP_1, GO:0098655, biological_process, monoatomic cation transmembrane transport, 0.068
+5TTP_1, GO:0006796, biological_process, phosphate-containing compound metabolic process, 0.067
+5TTP_1, GO:0022607, biological_process, cellular component assembly, 0.065
+5TTP_1, GO:0044085, biological_process, cellular component biogenesis, 0.065
+5TTP_1, GO:0009605, biological_process, response to external stimulus, 0.064
+5TTP_1, GO:0048518, biological_process, positive regulation of biological process, 0.063
+5TTP_1, GO:0019222, biological_process, regulation of metabolic process, 0.063
+5TTP_1, GO:0050801, biological_process, monoatomic ion homeostasis, 0.060
+5TTP_1, GO:0006779, biological_process, porphyrin-containing compound biosynthetic process, 0.060
+5TTP_1, GO:0055082, biological_process, intracellular chemical homeostasis, 0.059
+5TTP_1, GO:0002376, biological_process, immune system process, 0.059
+5TTP_1, GO:0006873, biological_process, intracellular monoatomic ion homeostasis, 0.059
+5TTP_1, GO:0055080, biological_process, monoatomic cation homeostasis, 0.058
+5TTP_1, GO:0042440, biological_process, pigment metabolic process, 0.058
+5TTP_1, GO:1901135, biological_process, carbohydrate derivative metabolic process, 0.058
+5TTP_1, GO:0009628, biological_process, response to abiotic stimulus, 0.057
+5TTP_1, GO:0030003, biological_process, intracellular monoatomic cation homeostasis, 0.056
+5TTP_1, GO:0009653, biological_process, anatomical structure morphogenesis, 0.056
+5TTP_1, GO:0006970, biological_process, response to osmotic stress, 0.055
+5TTP_1, GO:0042886, biological_process, amide transport, 0.055
+5TTP_1, GO:0033554, biological_process, cellular response to stress, 0.054
+5TTP_1, GO:0098739, biological_process, import across plasma membrane, 0.054
+5TTP_1, GO:1901137, biological_process, carbohydrate derivative biosynthetic process, 0.054
+5TTP_1, GO:0098771, biological_process, inorganic ion homeostasis, 0.052
+5TTP_1, GO:0006862, biological_process, nucleotide transport, 0.052
+5TTP_1, GO:0015748, biological_process, organophosphate ester transport, 0.052
+5TTP_1, GO:0015931, biological_process, nucleobase-containing compound transport, 0.052
+5TTP_1, GO:1901679, biological_process, nucleotide transmembrane transport, 0.052
+5TTP_1, GO:0042168, biological_process, heme metabolic process, 0.048
+5TTP_1, GO:0019538, biological_process, protein metabolic process, 0.047
+5TTP_1, GO:0043170, biological_process, macromolecule metabolic process, 0.047
+5TTP_1, GO:0015865, biological_process, purine nucleotide transport, 0.044
+5TTP_1, GO:0015867, biological_process, ATP transport, 0.044
+5TTP_1, GO:0015868, biological_process, purine ribonucleotide transport, 0.044
+5TTP_1, GO:0051503, biological_process, adenine nucleotide transport, 0.044
+5TTP_1, GO:0048869, biological_process, cellular developmental process, 0.043
+5TTP_1, GO:0030154, biological_process, cell differentiation, 0.043
+5TTP_1, GO:0048468, biological_process, cell development, 0.043
+5TTP_1, GO:0015833, biological_process, peptide transport, 0.042
+5TTP_1, GO:0140352, biological_process, export from cell, 0.042
+5TTP_1, GO:0140115, biological_process, export across plasma membrane, 0.042
+5TTP_1, GO:0006996, biological_process, organelle organization, 0.041
+5TTP_1, GO:0010044, biological_process, response to aluminum ion, 0.041
+5TTP_1, GO:0009636, biological_process, response to toxic substance, 0.041
+5TTP_1, GO:0097237, biological_process, cellular response to toxic substance, 0.041
+5TTP_1, GO:0098754, biological_process, detoxification, 0.041
+5TTP_1, GO:1990748, biological_process, cellular detoxification, 0.041
+5TTP_1, GO:0046148, biological_process, pigment biosynthetic process, 0.040
+5TTP_1, GO:0002262, biological_process, myeloid cell homeostasis, 0.040
+5TTP_1, GO:0030097, biological_process, hemopoiesis, 0.040
+5TTP_1, GO:0030099, biological_process, myeloid cell differentiation, 0.040
+5TTP_1, GO:0030218, biological_process, erythrocyte differentiation, 0.040
+5TTP_1, GO:0034101, biological_process, erythrocyte homeostasis, 0.040
+5TTP_1, GO:0048871, biological_process, multicellular organismal-level homeostasis, 0.040
+5TTP_1, GO:0048872, biological_process, homeostasis of number of cells, 0.040
+5TTP_1, GO:0048522, biological_process, positive regulation of cellular process, 0.039
+5TTP_1, GO:0009889, biological_process, regulation of biosynthetic process, 0.039
+5TTP_1, GO:0006783, biological_process, heme biosynthetic process, 0.038
+5TTP_1, GO:0009893, biological_process, positive regulation of metabolic process, 0.037
+5TTP_1, GO:0098657, biological_process, import into cell, 0.037
+5TTP_1, GO:0046686, biological_process, response to cadmium ion, 0.035
+5TTP_1, GO:0051171, biological_process, regulation of nitrogen compound metabolic process, 0.034
+5TTP_1, GO:0009891, biological_process, positive regulation of biosynthetic process, 0.034
+5TTP_1, GO:0009555, biological_process, pollen development, 0.033
+5TTP_1, GO:0048229, biological_process, gametophyte development, 0.033
+5TTP_1, GO:0044281, biological_process, small molecule metabolic process, 0.033
+5TTP_1, GO:0010033, biological_process, response to organic substance, 0.033
+5TTP_1, GO:0006826, biological_process, iron ion transport, 0.033
+5TTP_1, GO:0051173, biological_process, positive regulation of nitrogen compound metabolic process, 0.032
+5TTP_1, GO:0002682, biological_process, regulation of immune system process, 0.031
+5TTP_1, GO:0006879, biological_process, intracellular iron ion homeostasis, 0.031
+5TTP_1, GO:0006813, biological_process, potassium ion transport, 0.031
+5TTP_1, GO:0071805, biological_process, potassium ion transmembrane transport, 0.031
+5TTP_1, GO:0097501, biological_process, stress response to metal ion, 0.031
+5TTP_1, GO:0006629, biological_process, lipid metabolic process, 0.031
+5TTP_1, GO:0006643, biological_process, membrane lipid metabolic process, 0.031
+5TTP_1, GO:0006644, biological_process, phospholipid metabolic process, 0.031
+5TTP_1, GO:0006664, biological_process, glycolipid metabolic process, 0.031
+5TTP_1, GO:0008610, biological_process, lipid biosynthetic process, 0.031
+5TTP_1, GO:0008654, biological_process, phospholipid biosynthetic process, 0.031
+5TTP_1, GO:0009245, biological_process, lipid A biosynthetic process, 0.031
+5TTP_1, GO:0009247, biological_process, glycolipid biosynthetic process, 0.031
+5TTP_1, GO:0044255, biological_process, cellular lipid metabolic process, 0.031
+5TTP_1, GO:0046467, biological_process, membrane lipid biosynthetic process, 0.031
+5TTP_1, GO:0046493, biological_process, lipid A metabolic process, 0.031
+5TTP_1, GO:1901269, biological_process, lipooligosaccharide metabolic process, 0.031
+5TTP_1, GO:1901271, biological_process, lipooligosaccharide biosynthetic process, 0.031
+5TTP_1, GO:1903509, biological_process, liposaccharide metabolic process, 0.031
+5TTP_1, GO:0048731, biological_process, system development, 0.030
+5TTP_1, GO:1902602, biological_process, aluminum ion transmembrane transport, 0.029
+5TTP_1, GO:0045595, biological_process, regulation of cell differentiation, 0.029
+5TTP_1, GO:0045597, biological_process, positive regulation of cell differentiation, 0.029
+5TTP_1, GO:0045637, biological_process, regulation of myeloid cell differentiation, 0.029
+5TTP_1, GO:0045639, biological_process, positive regulation of myeloid cell differentiation, 0.029
+5TTP_1, GO:0050793, biological_process, regulation of developmental process, 0.029
+5TTP_1, GO:0051094, biological_process, positive regulation of developmental process, 0.029
+5TTP_1, GO:0051239, biological_process, regulation of multicellular organismal process, 0.029
+5TTP_1, GO:0060284, biological_process, regulation of cell development, 0.029
+5TTP_1, GO:1903706, biological_process, regulation of hemopoiesis, 0.029
+5TTP_1, GO:2000026, biological_process, regulation of multicellular organismal development, 0.029
+5TTP_1, GO:0006857, biological_process, oligopeptide transport, 0.028
+5TTP_1, GO:0035672, biological_process, oligopeptide transmembrane transport, 0.028
+5TTP_1, GO:0007154, biological_process, cell communication, 0.028
+5TTP_1, GO:0009059, biological_process, macromolecule biosynthetic process, 0.027
+5TTP_1, GO:0045646, biological_process, regulation of erythrocyte differentiation, 0.027
+5TTP_1, GO:0060255, biological_process, regulation of macromolecule metabolic process, 0.027
+5TTP_1, GO:1903409, biological_process, reactive oxygen species biosynthetic process, 0.027
+5TTP_1, GO:0072593, biological_process, reactive oxygen species metabolic process, 0.027
+5TTP_1, GO:1901998, biological_process, toxin transport, 0.026
+5TTP_1, GO:0071241, biological_process, cellular response to inorganic substance, 0.026
+5TTP_1, GO:0071248, biological_process, cellular response to metal ion, 0.026
+5TTP_1, GO:0071276, biological_process, cellular response to cadmium ion, 0.026
+5TTP_1, GO:0034755, biological_process, iron ion transmembrane transport, 0.026
+5TTP_1, GO:0015807, biological_process, L-amino acid transport, 0.026
+5TTP_1, GO:1902475, biological_process, L-alpha-amino acid transmembrane transport, 0.026
+5TTP_1, GO:0043603, biological_process, amide metabolic process, 0.025
+5TTP_1, GO:0015886, biological_process, heme transport, 0.025
+5TTP_1, GO:0035351, biological_process, heme transmembrane transport, 0.025
+5TTP_1, GO:1901678, biological_process, iron coordination entity transport, 0.025
+5TTP_1, GO:0031323, biological_process, regulation of cellular metabolic process, 0.023
+5TTP_1, GO:0000003, biological_process, reproduction, 0.023
+5TTP_1, GO:0048583, biological_process, regulation of response to stimulus, 0.022
+5TTP_1, GO:0048584, biological_process, positive regulation of response to stimulus, 0.022
+5TTP_1, GO:0002684, biological_process, positive regulation of immune system process, 0.022
+5TTP_1, GO:0050778, biological_process, positive regulation of immune response, 0.022
+5TTP_1, GO:0002819, biological_process, regulation of adaptive immune response, 0.022
+5TTP_1, GO:0002821, biological_process, positive regulation of adaptive immune response, 0.022
+5TTP_1, GO:0006955, biological_process, immune response, 0.022
+5TTP_1, GO:0050776, biological_process, regulation of immune response, 0.022
+5TTP_1, GO:0002250, biological_process, adaptive immune response, 0.022
+5TTP_1, GO:0051641, biological_process, cellular localization, 0.022
+5TTP_1, GO:0022414, biological_process, reproductive process, 0.022
+5TTP_1, GO:0006935, biological_process, chemotaxis, 0.021
+5TTP_1, GO:0006972, biological_process, hyperosmotic response, 0.021
+5TTP_1, GO:0040011, biological_process, locomotion, 0.021
+5TTP_1, GO:0042330, biological_process, taxis, 0.021
+5TTP_1, GO:0035461, biological_process, vitamin transmembrane transport, 0.021
+5TTP_1, GO:0051180, biological_process, vitamin transport, 0.021
+5TTP_1, GO:0048646, biological_process, anatomical structure formation involved in morphogenesis, 0.021
+5TTP_1, GO:0062197, biological_process, cellular response to chemical stress, 0.021
+5TTP_1, GO:0051649, biological_process, establishment of localization in cell, 0.021
+
+6MHU_1, GO:0008150, biological_process, biological_process, 1.429
+6MHU_1, GO:0006810, biological_process, transport, 1.196
+6MHU_1, GO:0051179, biological_process, localization, 1.196
+6MHU_1, GO:0051234, biological_process, establishment of localization, 1.196
+6MHU_1, GO:0033036, biological_process, macromolecule localization, 1.012
+6MHU_1, GO:0071702, biological_process, organic substance transport, 0.967
+6MHU_1, GO:1901264, biological_process, carbohydrate derivative transport, 0.840
+6MHU_1, GO:0006869, biological_process, lipid transport, 0.817
+6MHU_1, GO:0010876, biological_process, lipid localization, 0.817
+6MHU_1, GO:0015920, biological_process, lipopolysaccharide transport, 0.700
+6MHU_1, GO:0009987, biological_process, cellular process, 0.562
+6MHU_1, GO:0065007, biological_process, biological regulation, 0.252
+6MHU_1, GO:0050896, biological_process, response to stimulus, 0.252
+6MHU_1, GO:0071840, biological_process, cellular component organization or biogenesis, 0.211
+6MHU_1, GO:0050789, biological_process, regulation of biological process, 0.206
+6MHU_1, GO:0007154, biological_process, cell communication, 0.196
+6MHU_1, GO:0016043, biological_process, cellular component organization, 0.192
+6MHU_1, GO:0051641, biological_process, cellular localization, 0.183
+6MHU_1, GO:0070727, biological_process, cellular macromolecule localization, 0.183
+6MHU_1, GO:0008104, biological_process, protein localization, 0.183
+6MHU_1, GO:0032501, biological_process, multicellular organismal process, 0.173
+6MHU_1, GO:0050794, biological_process, regulation of cellular process, 0.165
+6MHU_1, GO:0051716, biological_process, cellular response to stimulus, 0.165
+6MHU_1, GO:0023052, biological_process, signaling, 0.165
+6MHU_1, GO:0007165, biological_process, signal transduction, 0.165
+6MHU_1, GO:0051649, biological_process, establishment of localization in cell, 0.149
+6MHU_1, GO:0046907, biological_process, intracellular transport, 0.149
+6MHU_1, GO:0055085, biological_process, transmembrane transport, 0.147
+6MHU_1, GO:0008152, biological_process, metabolic process, 0.139
+6MHU_1, GO:0006996, biological_process, organelle organization, 0.130
+6MHU_1, GO:0071705, biological_process, nitrogen compound transport, 0.124
+6MHU_1, GO:0032502, biological_process, developmental process, 0.124
+6MHU_1, GO:0048856, biological_process, anatomical structure development, 0.124
+6MHU_1, GO:0071704, biological_process, organic substance metabolic process, 0.116
+6MHU_1, GO:0033365, biological_process, protein localization to organelle, 0.100
+6MHU_1, GO:0048518, biological_process, positive regulation of biological process, 0.097
+6MHU_1, GO:0044237, biological_process, cellular metabolic process, 0.097
+6MHU_1, GO:0045184, biological_process, establishment of protein localization, 0.095
+6MHU_1, GO:1901564, biological_process, organonitrogen compound metabolic process, 0.094
+6MHU_1, GO:0006807, biological_process, nitrogen compound metabolic process, 0.094
+6MHU_1, GO:0015031, biological_process, protein transport, 0.091
+6MHU_1, GO:0051668, biological_process, localization within membrane, 0.086
+6MHU_1, GO:0016192, biological_process, vesicle-mediated transport, 0.085
+6MHU_1, GO:0044085, biological_process, cellular component biogenesis, 0.084
+6MHU_1, GO:0006811, biological_process, monoatomic ion transport, 0.083
+6MHU_1, GO:0006812, biological_process, monoatomic cation transport, 0.083
+6MHU_1, GO:0006886, biological_process, intracellular protein transport, 0.076
+6MHU_1, GO:0098660, biological_process, inorganic ion transmembrane transport, 0.075
+6MHU_1, GO:0098662, biological_process, inorganic cation transmembrane transport, 0.075
+6MHU_1, GO:0009893, biological_process, positive regulation of metabolic process, 0.075
+6MHU_1, GO:0019222, biological_process, regulation of metabolic process, 0.075
+6MHU_1, GO:0061024, biological_process, membrane organization, 0.073
+6MHU_1, GO:0034220, biological_process, monoatomic ion transmembrane transport, 0.069
+6MHU_1, GO:0098655, biological_process, monoatomic cation transmembrane transport, 0.069
+6MHU_1, GO:0044238, biological_process, primary metabolic process, 0.067
+6MHU_1, GO:0022607, biological_process, cellular component assembly, 0.067
+6MHU_1, GO:0072657, biological_process, protein localization to membrane, 0.063
+6MHU_1, GO:0003008, biological_process, system process, 0.062
+6MHU_1, GO:0009056, biological_process, catabolic process, 0.061
+6MHU_1, GO:0006950, biological_process, response to stress, 0.061
+6MHU_1, GO:1901360, biological_process, organic cyclic compound metabolic process, 0.060
+6MHU_1, GO:0009058, biological_process, biosynthetic process, 0.059
+6MHU_1, GO:0009605, biological_process, response to external stimulus, 0.058
+6MHU_1, GO:1901576, biological_process, organic substance biosynthetic process, 0.058
+6MHU_1, GO:0007275, biological_process, multicellular organism development, 0.058
+6MHU_1, GO:0044249, biological_process, cellular biosynthetic process, 0.058
+6MHU_1, GO:0048583, biological_process, regulation of response to stimulus, 0.058
+6MHU_1, GO:0006793, biological_process, phosphorus metabolic process, 0.056
+6MHU_1, GO:0006796, biological_process, phosphate-containing compound metabolic process, 0.056
+6MHU_1, GO:0006725, biological_process, cellular aromatic compound metabolic process, 0.055
+6MHU_1, GO:0044248, biological_process, cellular catabolic process, 0.055
+6MHU_1, GO:0048522, biological_process, positive regulation of cellular process, 0.055
+6MHU_1, GO:0030001, biological_process, metal ion transport, 0.054
+6MHU_1, GO:0044281, biological_process, small molecule metabolic process, 0.054
+6MHU_1, GO:0016197, biological_process, endosomal transport, 0.051
+6MHU_1, GO:0043170, biological_process, macromolecule metabolic process, 0.051
+6MHU_1, GO:0060255, biological_process, regulation of macromolecule metabolic process, 0.051
+6MHU_1, GO:0010604, biological_process, positive regulation of macromolecule metabolic process, 0.051
+6MHU_1, GO:0010467, biological_process, gene expression, 0.050
+6MHU_1, GO:0042221, biological_process, response to chemical, 0.050
+6MHU_1, GO:0034641, biological_process, cellular nitrogen compound metabolic process, 0.049
+6MHU_1, GO:0042592, biological_process, homeostatic process, 0.048
+6MHU_1, GO:0000003, biological_process, reproduction, 0.048
+6MHU_1, GO:0022414, biological_process, reproductive process, 0.047
+6MHU_1, GO:0019637, biological_process, organophosphate metabolic process, 0.047
+6MHU_1, GO:0007005, biological_process, mitochondrion organization, 0.047
+6MHU_1, GO:0044419, biological_process, biological process involved in interspecies interaction between organisms, 0.044
+6MHU_1, GO:0009628, biological_process, response to abiotic stimulus, 0.044
+6MHU_1, GO:0043933, biological_process, protein-containing complex organization, 0.044
+6MHU_1, GO:1901362, biological_process, organic cyclic compound biosynthetic process, 0.043
+6MHU_1, GO:0016482, biological_process, cytosolic transport, 0.043
+6MHU_1, GO:0046483, biological_process, heterocycle metabolic process, 0.042
+6MHU_1, GO:0044271, biological_process, cellular nitrogen compound biosynthetic process, 0.042
+6MHU_1, GO:0023051, biological_process, regulation of signaling, 0.041
+6MHU_1, GO:0010646, biological_process, regulation of cell communication, 0.041
+6MHU_1, GO:0009966, biological_process, regulation of signal transduction, 0.041
+6MHU_1, GO:0019538, biological_process, protein metabolic process, 0.040
+6MHU_1, GO:0065009, biological_process, regulation of molecular function, 0.040
+6MHU_1, GO:0019438, biological_process, aromatic compound biosynthetic process, 0.039
+6MHU_1, GO:0007166, biological_process, cell surface receptor signaling pathway, 0.039
+6MHU_1, GO:0006605, biological_process, protein targeting, 0.039
+6MHU_1, GO:0051173, biological_process, positive regulation of nitrogen compound metabolic process, 0.038
+6MHU_1, GO:0051171, biological_process, regulation of nitrogen compound metabolic process, 0.038
+6MHU_1, GO:0018130, biological_process, heterocycle biosynthetic process, 0.037
+6MHU_1, GO:0080090, biological_process, regulation of primary metabolic process, 0.036
+6MHU_1, GO:0033554, biological_process, cellular response to stress, 0.036
+6MHU_1, GO:0022411, biological_process, cellular component disassembly, 0.036
+6MHU_1, GO:0051239, biological_process, regulation of multicellular organismal process, 0.036
+6MHU_1, GO:0009607, biological_process, response to biotic stimulus, 0.035
+6MHU_1, GO:1901575, biological_process, organic substance catabolic process, 0.034
+6MHU_1, GO:0009991, biological_process, response to extracellular stimulus, 0.034
+6MHU_1, GO:0098876, biological_process, vesicle-mediated transport to the plasma membrane, 0.034
+6MHU_1, GO:0048519, biological_process, negative regulation of biological process, 0.033
+6MHU_1, GO:0042147, biological_process, retrograde transport, endosome to Golgi, 0.033
+6MHU_1, GO:0043207, biological_process, response to external biotic stimulus, 0.033
+6MHU_1, GO:0051707, biological_process, response to other organism, 0.033
+6MHU_1, GO:0034654, biological_process, nucleobase-containing compound biosynthetic process, 0.032
+6MHU_1, GO:0006139, biological_process, nucleobase-containing compound metabolic process, 0.032
+6MHU_1, GO:0050801, biological_process, monoatomic ion homeostasis, 0.032
+6MHU_1, GO:0048878, biological_process, chemical homeostasis, 0.032
+6MHU_1, GO:0055080, biological_process, monoatomic cation homeostasis, 0.032
+6MHU_1, GO:0010256, biological_process, endomembrane system organization, 0.032
+6MHU_1, GO:0048731, biological_process, system development, 0.031
+6MHU_1, GO:0010468, biological_process, regulation of gene expression, 0.031
+6MHU_1, GO:0072594, biological_process, establishment of protein localization to organelle, 0.030
+6MHU_1, GO:0010033, biological_process, response to organic substance, 0.030
+6MHU_1, GO:0090150, biological_process, establishment of protein localization to membrane, 0.030
+6MHU_1, GO:0090407, biological_process, organophosphate biosynthetic process, 0.030
+6MHU_1, GO:0031323, biological_process, regulation of cellular metabolic process, 0.029
+6MHU_1, GO:1901565, biological_process, organonitrogen compound catabolic process, 0.029
+6MHU_1, GO:0019725, biological_process, cellular homeostasis, 0.029
+6MHU_1, GO:0055082, biological_process, intracellular chemical homeostasis, 0.029
+6MHU_1, GO:0006873, biological_process, intracellular monoatomic ion homeostasis, 0.029
+6MHU_1, GO:0035556, biological_process, intracellular signal transduction, 0.028
+6MHU_1, GO:0006629, biological_process, lipid metabolic process, 0.028
+6MHU_1, GO:0043436, biological_process, oxoacid metabolic process, 0.028
+6MHU_1, GO:0006082, biological_process, organic acid metabolic process, 0.028
+6MHU_1, GO:0006508, biological_process, proteolysis, 0.028
+6MHU_1, GO:0031325, biological_process, positive regulation of cellular metabolic process, 0.027
+6MHU_1, GO:0031667, biological_process, response to nutrient levels, 0.027
+6MHU_1, GO:0030003, biological_process, intracellular monoatomic cation homeostasis, 0.027
+6MHU_1, GO:0065003, biological_process, protein-containing complex assembly, 0.027
+6MHU_1, GO:0009653, biological_process, anatomical structure morphogenesis, 0.027
+6MHU_1, GO:0006814, biological_process, sodium ion transport, 0.027
+6MHU_1, GO:0016050, biological_process, vesicle organization, 0.027
+6MHU_1, GO:0120009, biological_process, intermembrane lipid transfer, 0.026
+6MHU_1, GO:0044550, biological_process, secondary metabolite biosynthetic process, 0.026
+6MHU_1, GO:0019748, biological_process, secondary metabolic process, 0.026
+6MHU_1, GO:0044403, biological_process, biological process involved in symbiotic interaction, 0.026
+6MHU_1, GO:1902600, biological_process, proton transmembrane transport, 0.026
+6MHU_1, GO:0048513, biological_process, animal organ development, 0.026
+6MHU_1, GO:0048523, biological_process, negative regulation of cellular process, 0.026
+6MHU_1, GO:0032879, biological_process, regulation of localization, 0.026
+6MHU_1, GO:0071496, biological_process, cellular response to external stimulus, 0.026
+6MHU_1, GO:0009888, biological_process, tissue development, 0.025
+6MHU_1, GO:0019752, biological_process, carboxylic acid metabolic process, 0.025
+6MHU_1, GO:0009617, biological_process, response to bacterium, 0.025
+6MHU_1, GO:0048584, biological_process, positive regulation of response to stimulus, 0.025
+6MHU_1, GO:0006952, biological_process, defense response, 0.024
+6MHU_1, GO:0043412, biological_process, macromolecule modification, 0.024
+6MHU_1, GO:0036211, biological_process, protein modification process, 0.024
+6MHU_1, GO:1901566, biological_process, organonitrogen compound biosynthetic process, 0.024
+6MHU_1, GO:0046677, biological_process, response to antibiotic, 0.023
+6MHU_1, GO:1990778, biological_process, protein localization to cell periphery, 0.023
+6MHU_1, GO:0051247, biological_process, positive regulation of protein metabolic process, 0.023
+6MHU_1, GO:0051246, biological_process, regulation of protein metabolic process, 0.023
+6MHU_1, GO:0006900, biological_process, vesicle budding from membrane, 0.022
+6MHU_1, GO:0035725, biological_process, sodium ion transmembrane transport, 0.022
+6MHU_1, GO:1901615, biological_process, organic hydroxy compound metabolic process, 0.022
+6MHU_1, GO:0003006, biological_process, developmental process involved in reproduction, 0.022
+6MHU_1, GO:1901342, biological_process, regulation of vasculature development, 0.021
+6MHU_1, GO:2000026, biological_process, regulation of multicellular organismal development, 0.021
+6MHU_1, GO:0050793, biological_process, regulation of developmental process, 0.021
+6MHU_1, GO:0072359, biological_process, circulatory system development, 0.021
+6MHU_1, GO:0001944, biological_process, vasculature development, 0.021
+6MHU_1, GO:0098657, biological_process, import into cell, 0.021
+6MHU_1, GO:0009059, biological_process, macromolecule biosynthetic process, 0.021
+6MHU_1, GO:0031668, biological_process, cellular response to extracellular stimulus, 0.021
+6MHU_1, GO:0048869, biological_process, cellular developmental process, 0.021
+6MHU_1, GO:0051240, biological_process, positive regulation of multicellular organismal process, 0.021
+6MHU_1, GO:0048193, biological_process, Golgi vesicle transport, 0.021
+6MHU_1, GO:0044093, biological_process, positive regulation of molecular function, 0.020
+6MHU_1, GO:0009719, biological_process, response to endogenous stimulus, 0.020
+6MHU_1, GO:0070887, biological_process, cellular response to chemical stimulus, 0.020
+6MHU_1, GO:0098771, biological_process, inorganic ion homeostasis, 0.020
+6MHU_1, GO:1901135, biological_process, carbohydrate derivative metabolic process, 0.020
+6MHU_1, GO:0019693, biological_process, ribose phosphate metabolic process, 0.020
+
+6MHU_2, GO:0008150, biological_process, biological_process, 1.377
+6MHU_2, GO:0006810, biological_process, transport, 1.179
+6MHU_2, GO:0051179, biological_process, localization, 1.179
+6MHU_2, GO:0051234, biological_process, establishment of localization, 1.179
+6MHU_2, GO:0071702, biological_process, organic substance transport, 0.877
+6MHU_2, GO:0033036, biological_process, macromolecule localization, 0.799
+6MHU_2, GO:0006869, biological_process, lipid transport, 0.748
+6MHU_2, GO:0010876, biological_process, lipid localization, 0.748
+6MHU_2, GO:1901264, biological_process, carbohydrate derivative transport, 0.729
+6MHU_2, GO:0015920, biological_process, lipopolysaccharide transport, 0.700
+6MHU_2, GO:0009987, biological_process, cellular process, 0.530
+6MHU_2, GO:0055085, biological_process, transmembrane transport, 0.353
+6MHU_2, GO:0006811, biological_process, monoatomic ion transport, 0.214
+6MHU_2, GO:0034220, biological_process, monoatomic ion transmembrane transport, 0.214
+6MHU_2, GO:0071840, biological_process, cellular component organization or biogenesis, 0.213
+6MHU_2, GO:0016043, biological_process, cellular component organization, 0.193
+6MHU_2, GO:0006812, biological_process, monoatomic cation transport, 0.181
+6MHU_2, GO:0098655, biological_process, monoatomic cation transmembrane transport, 0.181
+6MHU_2, GO:0098660, biological_process, inorganic ion transmembrane transport, 0.179
+6MHU_2, GO:0098662, biological_process, inorganic cation transmembrane transport, 0.179
+6MHU_2, GO:0050896, biological_process, response to stimulus, 0.154
+6MHU_2, GO:0065007, biological_process, biological regulation, 0.153
+6MHU_2, GO:0008152, biological_process, metabolic process, 0.150
+6MHU_2, GO:0007154, biological_process, cell communication, 0.134
+6MHU_2, GO:0051716, biological_process, cellular response to stimulus, 0.131
+6MHU_2, GO:0050789, biological_process, regulation of biological process, 0.126
+6MHU_2, GO:0071704, biological_process, organic substance metabolic process, 0.123
+6MHU_2, GO:0006996, biological_process, organelle organization, 0.118
+6MHU_2, GO:0071705, biological_process, nitrogen compound transport, 0.106
+6MHU_2, GO:0061024, biological_process, membrane organization, 0.106
+6MHU_2, GO:0051641, biological_process, cellular localization, 0.104
+6MHU_2, GO:0023052, biological_process, signaling, 0.101
+6MHU_2, GO:0050794, biological_process, regulation of cellular process, 0.100
+6MHU_2, GO:0051649, biological_process, establishment of localization in cell, 0.099
+6MHU_2, GO:0044237, biological_process, cellular metabolic process, 0.096
+6MHU_2, GO:0007165, biological_process, signal transduction, 0.092
+6MHU_2, GO:0032501, biological_process, multicellular organismal process, 0.092
+6MHU_2, GO:1901360, biological_process, organic cyclic compound metabolic process, 0.089
+6MHU_2, GO:0044238, biological_process, primary metabolic process, 0.086
+6MHU_2, GO:0050801, biological_process, monoatomic ion homeostasis, 0.085
+6MHU_2, GO:0048878, biological_process, chemical homeostasis, 0.085
+6MHU_2, GO:0042592, biological_process, homeostatic process, 0.085
+6MHU_2, GO:0055080, biological_process, monoatomic cation homeostasis, 0.085
+6MHU_2, GO:0019725, biological_process, cellular homeostasis, 0.083
+6MHU_2, GO:0055082, biological_process, intracellular chemical homeostasis, 0.083
+6MHU_2, GO:0006873, biological_process, intracellular monoatomic ion homeostasis, 0.083
+6MHU_2, GO:0030003, biological_process, intracellular monoatomic cation homeostasis, 0.083
+6MHU_2, GO:1902600, biological_process, proton transmembrane transport, 0.080
+6MHU_2, GO:1901576, biological_process, organic substance biosynthetic process, 0.078
+6MHU_2, GO:0009058, biological_process, biosynthetic process, 0.078
+6MHU_2, GO:1901362, biological_process, organic cyclic compound biosynthetic process, 0.078
+6MHU_2, GO:0007005, biological_process, mitochondrion organization, 0.078
+6MHU_2, GO:0006807, biological_process, nitrogen compound metabolic process, 0.075
+6MHU_2, GO:0120009, biological_process, intermembrane lipid transfer, 0.070
+6MHU_2, GO:0009056, biological_process, catabolic process, 0.067
+6MHU_2, GO:0006725, biological_process, cellular aromatic compound metabolic process, 0.067
+6MHU_2, GO:0042221, biological_process, response to chemical, 0.066
+6MHU_2, GO:0015748, biological_process, organophosphate ester transport, 0.065
+6MHU_2, GO:0046483, biological_process, heterocycle metabolic process, 0.065
+6MHU_2, GO:0006950, biological_process, response to stress, 0.064
+6MHU_2, GO:0044249, biological_process, cellular biosynthetic process, 0.062
+6MHU_2, GO:0018130, biological_process, heterocycle biosynthetic process, 0.062
+6MHU_2, GO:0044281, biological_process, small molecule metabolic process, 0.062
+6MHU_2, GO:0032502, biological_process, developmental process, 0.062
+6MHU_2, GO:0046907, biological_process, intracellular transport, 0.061
+6MHU_2, GO:0034641, biological_process, cellular nitrogen compound metabolic process, 0.055
+6MHU_2, GO:0043170, biological_process, macromolecule metabolic process, 0.055
+6MHU_2, GO:0015914, biological_process, phospholipid transport, 0.054
+6MHU_2, GO:1901564, biological_process, organonitrogen compound metabolic process, 0.052
+6MHU_2, GO:0019438, biological_process, aromatic compound biosynthetic process, 0.052
+6MHU_2, GO:0048856, biological_process, anatomical structure development, 0.051
+6MHU_2, GO:0051668, biological_process, localization within membrane, 0.050
+6MHU_2, GO:0044248, biological_process, cellular catabolic process, 0.049
+6MHU_2, GO:0048518, biological_process, positive regulation of biological process, 0.047
+6MHU_2, GO:0033554, biological_process, cellular response to stress, 0.047
+6MHU_2, GO:0030001, biological_process, metal ion transport, 0.045
+6MHU_2, GO:0070727, biological_process, cellular macromolecule localization, 0.044
+6MHU_2, GO:0008104, biological_process, protein localization, 0.044
+6MHU_2, GO:1901575, biological_process, organic substance catabolic process, 0.042
+6MHU_2, GO:0044085, biological_process, cellular component biogenesis, 0.042
+6MHU_2, GO:0003008, biological_process, system process, 0.040
+6MHU_2, GO:0045184, biological_process, establishment of protein localization, 0.039
+6MHU_2, GO:0070887, biological_process, cellular response to chemical stimulus, 0.039
+6MHU_2, GO:0098771, biological_process, inorganic ion homeostasis, 0.039
+6MHU_2, GO:0015711, biological_process, organic anion transport, 0.038
+6MHU_2, GO:0015031, biological_process, protein transport, 0.037
+6MHU_2, GO:0006139, biological_process, nucleobase-containing compound metabolic process, 0.035
+6MHU_2, GO:0016192, biological_process, vesicle-mediated transport, 0.033
+6MHU_2, GO:0044271, biological_process, cellular nitrogen compound biosynthetic process, 0.033
+6MHU_2, GO:0034654, biological_process, nucleobase-containing compound biosynthetic process, 0.033
+6MHU_2, GO:0019222, biological_process, regulation of metabolic process, 0.033
+6MHU_2, GO:0048522, biological_process, positive regulation of cellular process, 0.032
+6MHU_2, GO:0015849, biological_process, organic acid transport, 0.032
+6MHU_2, GO:0019637, biological_process, organophosphate metabolic process, 0.032
+6MHU_2, GO:0006793, biological_process, phosphorus metabolic process, 0.032
+6MHU_2, GO:0000041, biological_process, transition metal ion transport, 0.032
+6MHU_2, GO:0019538, biological_process, protein metabolic process, 0.031
+6MHU_2, GO:0050877, biological_process, nervous system process, 0.031
+6MHU_2, GO:0010033, biological_process, response to organic substance, 0.031
+6MHU_2, GO:0072657, biological_process, protein localization to membrane, 0.030
+6MHU_2, GO:0006886, biological_process, intracellular protein transport, 0.030
+6MHU_2, GO:0032456, biological_process, endocytic recycling, 0.029
+6MHU_2, GO:0016197, biological_process, endosomal transport, 0.029
+6MHU_2, GO:0098876, biological_process, vesicle-mediated transport to the plasma membrane, 0.029
+6MHU_2, GO:0022607, biological_process, cellular component assembly, 0.029
+6MHU_2, GO:0009593, biological_process, detection of chemical stimulus, 0.028
+6MHU_2, GO:0051606, biological_process, detection of stimulus, 0.028
+6MHU_2, GO:0007275, biological_process, multicellular organism development, 0.028
+6MHU_2, GO:0046942, biological_process, carboxylic acid transport, 0.028
+6MHU_2, GO:0000003, biological_process, reproduction, 0.028
+6MHU_2, GO:0072521, biological_process, purine-containing compound metabolic process, 0.028
+6MHU_2, GO:0043436, biological_process, oxoacid metabolic process, 0.027
+6MHU_2, GO:0016053, biological_process, organic acid biosynthetic process, 0.027
+6MHU_2, GO:0019752, biological_process, carboxylic acid metabolic process, 0.027
+6MHU_2, GO:0044283, biological_process, small molecule biosynthetic process, 0.027
+6MHU_2, GO:0046394, biological_process, carboxylic acid biosynthetic process, 0.027
+6MHU_2, GO:0006082, biological_process, organic acid metabolic process, 0.027
+6MHU_2, GO:0071806, biological_process, protein transmembrane transport, 0.027
+6MHU_2, GO:0006629, biological_process, lipid metabolic process, 0.026
+6MHU_2, GO:0010467, biological_process, gene expression, 0.025
+6MHU_2, GO:0071310, biological_process, cellular response to organic substance, 0.025
+6MHU_2, GO:0031323, biological_process, regulation of cellular metabolic process, 0.024
+6MHU_2, GO:1901361, biological_process, organic cyclic compound catabolic process, 0.024
+6MHU_2, GO:0022414, biological_process, reproductive process, 0.024
+6MHU_2, GO:0009893, biological_process, positive regulation of metabolic process, 0.024
+6MHU_2, GO:0043933, biological_process, protein-containing complex organization, 0.024
+6MHU_2, GO:0008219, biological_process, cell death, 0.023
+6MHU_2, GO:0006796, biological_process, phosphate-containing compound metabolic process, 0.022
+6MHU_2, GO:0009605, biological_process, response to external stimulus, 0.022
+6MHU_2, GO:1901135, biological_process, carbohydrate derivative metabolic process, 0.022
+6MHU_2, GO:0019693, biological_process, ribose phosphate metabolic process, 0.022
+6MHU_2, GO:1901615, biological_process, organic hydroxy compound metabolic process, 0.022
+6MHU_2, GO:0048583, biological_process, regulation of response to stimulus, 0.021
+6MHU_2, GO:0010256, biological_process, endomembrane system organization, 0.021
+6MHU_2, GO:0055086, biological_process, nucleobase-containing small molecule metabolic process, 0.021
+6MHU_2, GO:0006753, biological_process, nucleoside phosphate metabolic process, 0.021
+6MHU_2, GO:0007600, biological_process, sensory perception, 0.021
+6MHU_2, GO:0009117, biological_process, nucleotide metabolic process, 0.021
+6MHU_2, GO:0009259, biological_process, ribonucleotide metabolic process, 0.021
+6MHU_2, GO:0009628, biological_process, response to abiotic stimulus, 0.021
+6MHU_2, GO:0048523, biological_process, negative regulation of cellular process, 0.020
+6MHU_2, GO:0048519, biological_process, negative regulation of biological process, 0.020
+
+6MHU_3, GO:0008150, biological_process, biological_process, 1.369
+6MHU_3, GO:0051179, biological_process, localization, 1.100
+6MHU_3, GO:0006810, biological_process, transport, 1.094
+6MHU_3, GO:0051234, biological_process, establishment of localization, 1.094
+6MHU_3, GO:0009987, biological_process, cellular process, 0.960
+6MHU_3, GO:0071702, biological_process, organic substance transport, 0.881
+6MHU_3, GO:0055085, biological_process, transmembrane transport, 0.739
+6MHU_3, GO:0006865, biological_process, amino acid transport, 0.661
+6MHU_3, GO:0015711, biological_process, organic anion transport, 0.661
+6MHU_3, GO:0015807, biological_process, L-amino acid transport, 0.661
+6MHU_3, GO:0015849, biological_process, organic acid transport, 0.661
+6MHU_3, GO:0046942, biological_process, carboxylic acid transport, 0.661
+6MHU_3, GO:0071705, biological_process, nitrogen compound transport, 0.661
+6MHU_3, GO:0003333, biological_process, amino acid transmembrane transport, 0.634
+6MHU_3, GO:1902475, biological_process, L-alpha-amino acid transmembrane transport, 0.634
+6MHU_3, GO:1903825, biological_process, organic acid transmembrane transport, 0.634
+6MHU_3, GO:1905039, biological_process, carboxylic acid transmembrane transport, 0.634
+6MHU_3, GO:0050896, biological_process, response to stimulus, 0.343
+6MHU_3, GO:0098739, biological_process, import across plasma membrane, 0.342
+6MHU_3, GO:0033036, biological_process, macromolecule localization, 0.320
+6MHU_3, GO:0098657, biological_process, import into cell, 0.264
+6MHU_3, GO:0015804, biological_process, neutral amino acid transport, 0.252
+6MHU_3, GO:0089718, biological_process, amino acid import across plasma membrane, 0.223
+6MHU_3, GO:0010876, biological_process, lipid localization, 0.215
+6MHU_3, GO:0006869, biological_process, lipid transport, 0.209
+6MHU_3, GO:0015803, biological_process, branched-chain amino acid transport, 0.202
+6MHU_3, GO:0042221, biological_process, response to chemical, 0.191
+6MHU_3, GO:0008152, biological_process, metabolic process, 0.161
+6MHU_3, GO:1901264, biological_process, carbohydrate derivative transport, 0.150
+6MHU_3, GO:0051716, biological_process, cellular response to stimulus, 0.144
+6MHU_3, GO:0044237, biological_process, cellular metabolic process, 0.140
+6MHU_3, GO:0032502, biological_process, developmental process, 0.136
+6MHU_3, GO:0048856, biological_process, anatomical structure development, 0.136
+6MHU_3, GO:0051703, biological_process, biological process involved in intraspecies interaction between organisms, 0.136
+6MHU_3, GO:0099120, biological_process, socially cooperative development, 0.136
+6MHU_3, GO:0071704, biological_process, organic substance metabolic process, 0.134
+6MHU_3, GO:0030587, biological_process, sorocarp development, 0.131
+6MHU_3, GO:0019438, biological_process, aromatic compound biosynthetic process, 0.128
+6MHU_3, GO:0006725, biological_process, cellular aromatic compound metabolic process, 0.128
+6MHU_3, GO:0044249, biological_process, cellular biosynthetic process, 0.128
+6MHU_3, GO:0009058, biological_process, biosynthetic process, 0.128
+6MHU_3, GO:1901362, biological_process, organic cyclic compound biosynthetic process, 0.125
+6MHU_3, GO:1901360, biological_process, organic cyclic compound metabolic process, 0.125
+6MHU_3, GO:1901576, biological_process, organic substance biosynthetic process, 0.125
+6MHU_3, GO:0018130, biological_process, heterocycle biosynthetic process, 0.124
+6MHU_3, GO:0046483, biological_process, heterocycle metabolic process, 0.124
+6MHU_3, GO:0015801, biological_process, aromatic amino acid transport, 0.119
+6MHU_3, GO:0006807, biological_process, nitrogen compound metabolic process, 0.110
+6MHU_3, GO:0015695, biological_process, organic cation transport, 0.108
+6MHU_3, GO:0140115, biological_process, export across plasma membrane, 0.103
+6MHU_3, GO:0140352, biological_process, export from cell, 0.103
+6MHU_3, GO:0015920, biological_process, lipopolysaccharide transport, 0.103
+6MHU_3, GO:0000041, biological_process, transition metal ion transport, 0.101
+6MHU_3, GO:0006811, biological_process, monoatomic ion transport, 0.101
+6MHU_3, GO:0006812, biological_process, monoatomic cation transport, 0.101
+6MHU_3, GO:0030001, biological_process, metal ion transport, 0.101
+6MHU_3, GO:0065007, biological_process, biological regulation, 0.099
+6MHU_3, GO:0071840, biological_process, cellular component organization or biogenesis, 0.096
+6MHU_3, GO:0044238, biological_process, primary metabolic process, 0.095
+6MHU_3, GO:0050789, biological_process, regulation of biological process, 0.093
+6MHU_3, GO:0006950, biological_process, response to stress, 0.090
+6MHU_3, GO:0033554, biological_process, cellular response to stress, 0.089
+6MHU_3, GO:0016043, biological_process, cellular component organization, 0.087
+6MHU_3, GO:0044271, biological_process, cellular nitrogen compound biosynthetic process, 0.087
+6MHU_3, GO:0034641, biological_process, cellular nitrogen compound metabolic process, 0.087
+6MHU_3, GO:0050794, biological_process, regulation of cellular process, 0.087
+6MHU_3, GO:0098660, biological_process, inorganic ion transmembrane transport, 0.087
+6MHU_3, GO:0098662, biological_process, inorganic cation transmembrane transport, 0.087
+6MHU_3, GO:0072337, biological_process, modified amino acid transport, 0.085
+6MHU_3, GO:0015818, biological_process, isoleucine transport, 0.084
+6MHU_3, GO:0015829, biological_process, valine transport, 0.084
+6MHU_3, GO:1903714, biological_process, isoleucine transmembrane transport, 0.084
+6MHU_3, GO:1903785, biological_process, L-valine transmembrane transport, 0.084
+6MHU_3, GO:0072348, biological_process, sulfur compound transport, 0.084
+6MHU_3, GO:0006139, biological_process, nucleobase-containing compound metabolic process, 0.084
+6MHU_3, GO:0034654, biological_process, nucleobase-containing compound biosynthetic process, 0.084
+6MHU_3, GO:0042940, biological_process, D-amino acid transport, 0.079
+6MHU_3, GO:1901564, biological_process, organonitrogen compound metabolic process, 0.077
+6MHU_3, GO:0044281, biological_process, small molecule metabolic process, 0.076
+6MHU_3, GO:0034220, biological_process, monoatomic ion transmembrane transport, 0.075
+6MHU_3, GO:0098655, biological_process, monoatomic cation transmembrane transport, 0.075
+6MHU_3, GO:0007154, biological_process, cell communication, 0.061
+6MHU_3, GO:0015846, biological_process, polyamine transport, 0.061
+6MHU_3, GO:0046677, biological_process, response to antibiotic, 0.060
+6MHU_3, GO:0042908, biological_process, xenobiotic transport, 0.060
+6MHU_3, GO:0015823, biological_process, phenylalanine transport, 0.057
+6MHU_3, GO:0015808, biological_process, L-alanine transport, 0.056
+6MHU_3, GO:0032328, biological_process, alanine transport, 0.056
+6MHU_3, GO:0042941, biological_process, D-alanine transport, 0.056
+6MHU_3, GO:0035461, biological_process, vitamin transmembrane transport, 0.053
+6MHU_3, GO:0051180, biological_process, vitamin transport, 0.053
+6MHU_3, GO:0015847, biological_process, putrescine transport, 0.052
+6MHU_3, GO:0009636, biological_process, response to toxic substance, 0.049
+6MHU_3, GO:0098754, biological_process, detoxification, 0.049
+6MHU_3, GO:0015697, biological_process, quaternary ammonium group transport, 0.049
+6MHU_3, GO:0015838, biological_process, amino-acid betaine transport, 0.049
+6MHU_3, GO:0031460, biological_process, glycine betaine transport, 0.049
+6MHU_3, GO:0000101, biological_process, sulfur amino acid transport, 0.048
+6MHU_3, GO:0009628, biological_process, response to abiotic stimulus, 0.047
+6MHU_3, GO:0006970, biological_process, response to osmotic stress, 0.044
+6MHU_3, GO:0009605, biological_process, response to external stimulus, 0.044
+6MHU_3, GO:0009991, biological_process, response to extracellular stimulus, 0.044
+6MHU_3, GO:0006753, biological_process, nucleoside phosphate metabolic process, 0.043
+6MHU_3, GO:0019637, biological_process, organophosphate metabolic process, 0.043
+6MHU_3, GO:0055086, biological_process, nucleobase-containing small molecule metabolic process, 0.043
+6MHU_3, GO:0009117, biological_process, nucleotide metabolic process, 0.043
+6MHU_3, GO:0006793, biological_process, phosphorus metabolic process, 0.043
+6MHU_3, GO:0006796, biological_process, phosphate-containing compound metabolic process, 0.043
+6MHU_3, GO:0070887, biological_process, cellular response to chemical stimulus, 0.040
+6MHU_3, GO:0010035, biological_process, response to inorganic substance, 0.040
+6MHU_3, GO:0010038, biological_process, response to metal ion, 0.040
+6MHU_3, GO:0031667, biological_process, response to nutrient levels, 0.039
+6MHU_3, GO:1901566, biological_process, organonitrogen compound biosynthetic process, 0.038
+6MHU_3, GO:0071496, biological_process, cellular response to external stimulus, 0.037
+6MHU_3, GO:0015748, biological_process, organophosphate ester transport, 0.035
+6MHU_3, GO:0015811, biological_process, L-cystine transport, 0.035
+6MHU_3, GO:0015914, biological_process, phospholipid transport, 0.035
+6MHU_3, GO:0061024, biological_process, membrane organization, 0.035
+6MHU_3, GO:0120009, biological_process, intermembrane lipid transfer, 0.035
+6MHU_3, GO:1902047, biological_process, polyamine transmembrane transport, 0.035
+6MHU_3, GO:0008643, biological_process, carbohydrate transport, 0.034
+6MHU_3, GO:0015766, biological_process, disaccharide transport, 0.034
+6MHU_3, GO:0015768, biological_process, maltose transport, 0.034
+6MHU_3, GO:0015772, biological_process, oligosaccharide transport, 0.034
+6MHU_3, GO:0034219, biological_process, carbohydrate transmembrane transport, 0.034
+6MHU_3, GO:1904981, biological_process, maltose transmembrane transport, 0.034
+6MHU_3, GO:0015821, biological_process, methionine transport, 0.034
+6MHU_3, GO:0048473, biological_process, D-methionine transport, 0.034
+6MHU_3, GO:0062197, biological_process, cellular response to chemical stress, 0.034
+6MHU_3, GO:0071214, biological_process, cellular response to abiotic stimulus, 0.034
+6MHU_3, GO:0071470, biological_process, cellular response to osmotic stress, 0.034
+6MHU_3, GO:0104004, biological_process, cellular response to environmental stimulus, 0.034
+6MHU_3, GO:0009653, biological_process, anatomical structure morphogenesis, 0.033
+6MHU_3, GO:0051641, biological_process, cellular localization, 0.033
+6MHU_3, GO:0015837, biological_process, amine transport, 0.033
+6MHU_3, GO:0031668, biological_process, cellular response to extracellular stimulus, 0.032
+6MHU_3, GO:0044403, biological_process, biological process involved in symbiotic interaction, 0.032
+6MHU_3, GO:0044419, biological_process, biological process involved in interspecies interaction between organisms, 0.032
+6MHU_3, GO:0090407, biological_process, organophosphate biosynthetic process, 0.031
+6MHU_3, GO:0009165, biological_process, nucleotide biosynthetic process, 0.031
+6MHU_3, GO:1901293, biological_process, nucleoside phosphate biosynthetic process, 0.031
+6MHU_3, GO:0051649, biological_process, establishment of localization in cell, 0.031
+6MHU_3, GO:0043170, biological_process, macromolecule metabolic process, 0.030
+6MHU_3, GO:0006996, biological_process, organelle organization, 0.029
+6MHU_3, GO:0051701, biological_process, biological process involved in interaction with host, 0.029
+6MHU_3, GO:0042594, biological_process, response to starvation, 0.029
+6MHU_3, GO:0032501, biological_process, multicellular organismal process, 0.029
+6MHU_3, GO:0044085, biological_process, cellular component biogenesis, 0.029
+6MHU_3, GO:0022607, biological_process, cellular component assembly, 0.029
+6MHU_3, GO:0031669, biological_process, cellular response to nutrient levels, 0.029
+6MHU_3, GO:0042592, biological_process, homeostatic process, 0.029
+6MHU_3, GO:0048519, biological_process, negative regulation of biological process, 0.029
+6MHU_3, GO:0009267, biological_process, cellular response to starvation, 0.028
+6MHU_3, GO:1903805, biological_process, L-valine import across plasma membrane, 0.028
+6MHU_3, GO:1903806, biological_process, L-isoleucine import across plasma membrane, 0.028
+6MHU_3, GO:0048523, biological_process, negative regulation of cellular process, 0.027
+6MHU_3, GO:0090304, biological_process, nucleic acid metabolic process, 0.025
+6MHU_3, GO:0015848, biological_process, spermidine transport, 0.025
+6MHU_3, GO:0046618, biological_process, xenobiotic export from cell, 0.025
+6MHU_3, GO:0120010, biological_process, intermembrane phospholipid transfer, 0.025
+6MHU_3, GO:1903711, biological_process, spermidine transmembrane transport, 0.025
+6MHU_3, GO:1990961, biological_process, xenobiotic detoxification by transmembrane export across the plasma membrane, 0.025
+6MHU_3, GO:0048878, biological_process, chemical homeostasis, 0.025
+6MHU_3, GO:0008272, biological_process, sulfate transport, 0.024
+6MHU_3, GO:0015698, biological_process, inorganic anion transport, 0.024
+6MHU_3, GO:0046907, biological_process, intracellular transport, 0.024
+6MHU_3, GO:0010438, biological_process, cellular response to sulfur starvation, 0.024
+6MHU_3, GO:0015774, biological_process, polysaccharide transport, 0.024
+6MHU_3, GO:0033037, biological_process, polysaccharide localization, 0.024
+6MHU_3, GO:0042956, biological_process, maltodextrin transmembrane transport, 0.024
+6MHU_3, GO:1903692, biological_process, methionine import across plasma membrane, 0.024
+6MHU_3, GO:0010043, biological_process, response to zinc ion, 0.023
+6MHU_3, GO:0072521, biological_process, purine-containing compound metabolic process, 0.023
+6MHU_3, GO:0015850, biological_process, organic hydroxy compound transport, 0.023
+6MHU_3, GO:0015918, biological_process, sterol transport, 0.023
+6MHU_3, GO:0030301, biological_process, cholesterol transport, 0.023
+6MHU_3, GO:0070508, biological_process, cholesterol import, 0.023
+6MHU_3, GO:0006972, biological_process, hyperosmotic response, 0.023
+6MHU_3, GO:0015816, biological_process, glycine transport, 0.023
+6MHU_3, GO:1903804, biological_process, glycine import across plasma membrane, 0.023
+6MHU_3, GO:0006824, biological_process, cobalt ion transport, 0.023
+6MHU_3, GO:0044283, biological_process, small molecule biosynthetic process, 0.022
+6MHU_3, GO:0006163, biological_process, purine nucleotide metabolic process, 0.020
+6MHU_3, GO:0019222, biological_process, regulation of metabolic process, 0.020
+
